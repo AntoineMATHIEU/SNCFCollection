@@ -44,6 +44,9 @@ df_dic['uic_code'] = df_dic['uic_code'].apply(removezero)
 df_dic.convert_dtypes()
 dic_gare = df_dic.set_index('alias_libelle_noncontraint').T.to_dict('list')
 
+df = pd.read_csv('liste_gares_choisi.csv')
+dic_gare = df_dic.set_index('alias_libelle_noncontraint').T.to_dict('list')
+
 df_final = pd.DataFrame()
 
 for gare in dic_gare:
