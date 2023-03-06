@@ -1,0 +1,203 @@
+Provenance,Destination,Train,Numéro,Jour,Départ (réel),Départ (prévu),Retard (min),Cause,Arrêts
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,09:16:30,09:16:30,0,,"['TGV Haute Picardie', 'Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Marseille - Saint-Charles,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9854,07-03-2023,10:38:00,10:38:00,0,,"['Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Annecy,Annemasse ,LEX,49540,07-03-2023,05:10:00,05:10:00,0,,"['Pringy', 'Annemasse']"
+Annecy,Annemasse ,LEX,49542,07-03-2023,06:10:00,06:10:00,0,,"['Pringy', 'Annemasse']"
+Annecy,Annemasse ,LEX,49544,07-03-2023,07:10:00,07:10:00,0,,"['Pringy', 'Annemasse']"
+Annecy,Lyon-Part-Dieu - Gare Routière ,TER,39518,07-03-2023,09:00:00,09:00:00,0,,['Lyon-Part-Dieu - Gare Routière']
+Annecy,Annemasse ,LEX,461219,07-03-2023,09:08:00,09:08:00,0,,"['Pringy', 'Groisy - Thorens - La Caille', 'La Roche-sur-Foron', 'Reignier', 'Annemasse']"
+Annecy,Annemasse ,LEX,461221,07-03-2023,09:27:00,09:27:00,0,,"['La Roche-sur-Foron', 'Annemasse']"
+Annecy,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6964,07-03-2023,09:29:00,09:29:00,0,,"['Aix-les-Bains - Le Revard', 'Chambéry - Challes-les-Eaux', 'Mâcon Loché TGV', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Avignon Centre,Marseille - Saint-Charles ,TER,879603,07-03-2023,05:52:00,05:27:00,25,Difficultés lors de la préparation du train,"['Montfavet', 'Morières-lès-Avignon', 'Saint-Saturnin-lès-Avignon', 'Gadagne', 'Le Thor', 'L\'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse"", \'links\': [], \'coord\': {\'lat\': \'43.917398\', \'lon\': \'5.047606\'}, \'label\': ""L\'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse (L\'Isle-sur-la-Sorgue)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87765479:Train\'', 'Cavaillon', 'Orgon', 'Sénas', 'Lamanon', 'Salon', 'Miramas', 'Saint-Chamas', 'Rognac', 'Vitrolles - Aéroport Marseille Provence', 'Pas des Lanciers', 'L\'Estaque"", \'links\': [], \'coord\': {\'lat\': \'43.363646\', \'lon\': \'5.321342\'}, \'label\': ""L\'Estaque (Marseille)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87751602:Train\'', 'Marseille - Saint-Charles']"
+Avignon Centre,Marseille - Saint-Charles ,TER,879515,07-03-2023,06:48:00,06:48:00,0,,"['Arles', 'Saint-Martin-de-Crau', 'Miramas', 'Vitrolles - Aéroport Marseille Provence', 'Marseille - Saint-Charles']"
+Marseille - Saint-Charles,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6136,07-03-2023,06:41:00,06:41:00,0,,['Paris - Gare de Lyon - Hall 1 & 2']
+Marseille - Saint-Charles,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9854,07-03-2023,07:15:30,07:15:30,0,,"['Lyon Part Dieu', 'Marne-la-Vallée - Chessy', 'Aéroport Charles de Gaulle 2 TGV', 'Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Marseille - Saint-Charles,Le Havre ,TGV INOUI,5376,07-03-2023,08:24:00,08:24:00,0,,"['Valence TGV Rhône-Alpes Sud', 'Lyon Part Dieu', 'Massy - Palaiseau', 'Versailles Chantiers', 'Mantes-la-Jolie', 'Rouen Rive Droite', 'Le Havre']"
+Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles ,OUIGO,7829,07-03-2023,08:46:00,08:46:00,0,,"['Aix-en-Provence TGV', 'Marseille - Saint-Charles']"
+Lyon Part Dieu,Nice ,TGV INOUI,6805,07-03-2023,09:28:00,09:28:00,0,,"['Aix-en-Provence TGV', 'Marseille - Saint-Charles', 'Toulon', 'Saint-Raphaël - Valescure', 'Cannes', 'Antibes', 'Nice']"
+Marseille - Saint-Charles,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6112,07-03-2023,09:41:00,09:41:00,0,,['Paris - Gare de Lyon - Hall 1 & 2']
+Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles ,TGV INOUI,6103,07-03-2023,10:20:00,10:20:00,0,,"['Aix-en-Provence TGV', 'Marseille - Saint-Charles']"
+Marseille - Saint-Charles,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6116,07-03-2023,12:41:00,12:41:00,0,,['Paris - Gare de Lyon - Hall 1 & 2']
+Avignon TGV,Miramas ,TER,453007,07-03-2023,12:50:00,12:50:00,0,,"['Avignon Centre', 'Montfavet', 'Morières-lès-Avignon', 'Saint-Saturnin-lès-Avignon', 'Gadagne', 'Le Thor', 'L\'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse"", \'links\': [], \'coord\': {\'lat\': \'43.917398\', \'lon\': \'5.047606\'}, \'label\': ""L\'Isle-sur-la-Sorgue - Fontaine-de-Vaucluse (L\'Isle-sur-la-Sorgue)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87765479:Coach\'', 'Cavaillon', 'Orgon', 'Sénas', 'Lamanon', 'Salon', 'Miramas']"
+Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles ,TGV INOUI,6109,07-03-2023,13:21:00,13:21:00,0,,"['Aix-en-Provence TGV', 'Marseille - Saint-Charles']"
+Saint-Pol-sur-Ternoise,Lille Flandres ,TER HDF,842900,07-03-2023,06:18:00,06:18:00,0,,"['La Bassée', 'Lille CHR', 'Lille Flandres']"
+Béthune,Lille Flandres ,TER HDF,842472,07-03-2023,06:49:00,06:49:00,0,,"['Beuvry lès Béthune', 'Cuinchy', 'La Bassée', 'Salomé', 'Marquillies', 'Don - Sainghin', 'Wavrin', 'Santes', 'Haubourdin', 'Loos lez Lille', 'Lille CHR', 'Lille Porte de Douai', 'Lille Flandres']"
+Hazebrouck,Arras ,TER HDF,846522,07-03-2023,07:00:00,07:00:00,0,,"['Noeux', 'Mazingarbe', 'Bully - Grenay', 'Liévin', 'Loos-en-Gohelle', 'Lens', 'Avion', 'Vimy', 'Farbus', 'Bailleul-Sir-Berthoult', 'Arras']"
+Béthune,Saint-Pol-sur-Ternoise ,TER HDF,36021,07-03-2023,07:00:00,07:00:00,0,,"['Vis à Marles', 'Calonne-Ricouart', 'Pernes - Camblain', 'Saint-Pol-sur-Ternoise']"
+Béthune,Saint-Pol-sur-Ternoise ,TER HDF,36023,07-03-2023,07:25:00,07:25:00,0,,"['Vis à Marles', 'Calonne-Ricouart', 'Pernes - Camblain', 'Saint-Pol-sur-Ternoise']"
+Béthune,Saint-Pol-sur-Ternoise ,TER HDF,36025,07-03-2023,07:52:00,07:52:00,0,,"['Vis à Marles', 'Calonne-Ricouart', 'Pernes - Camblain', 'Saint-Pol-sur-Ternoise']"
+Béthune,Lille Flandres ,TER HDF,842410,07-03-2023,08:18:00,08:18:00,0,,"['La Bassée', 'Lille CHR', 'Lille Flandres']"
+Béthune,Saint-Pol-sur-Ternoise ,TER HDF,36027,07-03-2023,12:22:00,12:22:00,0,,"['Vis à Marles', 'Calonne-Ricouart', 'Pernes - Camblain', 'Saint-Pol-sur-Ternoise']"
+Béthune,Lille Flandres ,TER HDF,842484,07-03-2023,16:49:00,16:49:00,0,,"['Beuvry lès Béthune', 'Cuinchy', 'La Bassée', 'Salomé', 'Marquillies', 'Don - Sainghin', 'Wavrin', 'Santes', 'Haubourdin', 'Loos lez Lille', 'Lille CHR', 'Lille Porte de Douai', 'Lille Flandres']"
+Béthune,Saint-Pol-sur-Ternoise ,TER HDF,36029,07-03-2023,17:25:00,17:25:00,0,,"['Vis à Marles', 'Calonne-Ricouart', 'Pernes - Camblain', 'Saint-Pol-sur-Ternoise']"
+Brest,Quimper ,TER,52382,07-03-2023,07:00:00,07:00:00,0,,['Quimper']
+Brest,Quimper ,TER,411634,07-03-2023,08:00:00,08:00:00,0,,"['Landerneau', 'Dirinon', 'Pont-de-Buis', 'Châteaulin', 'Quimper']"
+Brest,Quimper ,TER,52386,07-03-2023,09:30:00,09:30:00,0,,['Quimper']
+Brest,Quimper ,TER,411616,07-03-2023,12:30:00,12:30:00,0,,"['Landerneau', 'Dirinon', 'Pont-de-Buis', 'Châteaulin', 'Quimper']"
+Brest,Quimper ,TER,52388,07-03-2023,14:15:00,14:15:00,0,,['Quimper']
+Brest,Quimper ,TER,52394,07-03-2023,18:10:00,18:10:00,0,,['Quimper']
+Caen,Paris Saint-Lazare ,TER,3354,07-03-2023,06:03:00,06:03:00,0,,"['Lisieux', 'Bernay', 'Évreux Embranchement', 'Paris Saint-Lazare']"
+Caen,Rennes ,TER,36890,07-03-2023,07:30:00,07:30:00,0,,"['Guilberville-le Saussey', 'Avranches', 'Rennes Beaulieu Chimie', 'Rennes']"
+Cherbourg,Paris Saint-Lazare ,TER,3328,07-03-2023,07:56:30,07:56:30,0,,['Paris Saint-Lazare']
+Caen,Le Mans ,TER,36720,07-03-2023,09:30:00,09:30:00,0,,"['Argentan', 'Alençon', 'Le Mans']"
+Paris Saint-Lazare,Cherbourg ,TER,3309,07-03-2023,13:02:00,13:02:00,0,,"['Bayeux', 'Lison', 'Carentan', 'Valognes', 'Cherbourg']"
+Cherbourg,Paris Saint-Lazare ,TER,3310,07-03-2023,13:59:30,13:59:30,0,,['Paris Saint-Lazare']
+Caen,Paris Saint-Lazare ,TER,3348,07-03-2023,14:20:00,14:20:00,0,,"['Lisieux', 'Bernay', 'Évreux Embranchement', 'Paris Saint-Lazare']"
+Caen,Rennes ,TER,36892,07-03-2023,16:15:00,16:15:00,0,,"['Guilberville-le Saussey', 'Avranches', 'Rennes Beaulieu Chimie', 'Rennes']"
+Paris Saint-Lazare,Cherbourg ,TER,3319,07-03-2023,19:08:00,19:08:00,0,,"['Bayeux', 'Lison', 'Carentan', 'Valognes', 'Cherbourg']"
+Calais Ville,Dunkerque ,TER HDF,36114,07-03-2023,06:46:00,06:46:00,0,,"['Gravelines', 'Dunkerque']"
+Calais Ville,Dunkerque ,TER HDF,36136,07-03-2023,07:24:00,07:24:00,0,,"['Les Fontinettes', 'Beau Marais', 'Gravelines', 'Bourbourg', 'Grande-Synthe', 'Coudekerque-Branche', 'Dunkerque']"
+Calais Ville,Lille Flandres ,TER HDF,844816,07-03-2023,08:31:00,08:31:00,0,,"['Audruicq', 'Watten - Éperlecques', 'Saint-Omer', 'Hazebrouck', 'Bailleul', 'Armentières', 'Lille Flandres']"
+Calais Ville,Lille Flandres ,TER HDF,844826,07-03-2023,16:31:00,16:31:00,0,,"['Audruicq', 'Watten - Éperlecques', 'Saint-Omer', 'Hazebrouck', 'Bailleul', 'Armentières', 'Lille Flandres']"
+Bar-le-Duc,Toul ,TER,429429,07-03-2023,09:56:00,09:56:00,0,,['Toul']
+Toul,Bar-le-Duc ,TER,429344,07-03-2023,10:37:00,10:37:00,0,,['Bar-le-Duc']
+Commercy,Bar-le-Duc ,TER,429402,07-03-2023,11:19:00,11:19:00,0,,['Bar-le-Duc']
+Bar-le-Duc,Toul ,TER,429313,07-03-2023,11:36:00,11:36:00,0,,['Toul']
+Commercy,Bar-le-Duc ,TER,429404,07-03-2023,12:19:00,12:19:00,0,,['Bar-le-Duc']
+Toul,Revigny ,TER,429348,07-03-2023,13:37:00,13:37:00,0,,"['Bar-le-Duc', 'Revigny']"
+Revigny,Toul ,TER,429647,07-03-2023,14:16:00,14:16:00,0,,['Toul']
+Commercy,Bar-le-Duc ,TER,429406,07-03-2023,14:25:00,14:25:00,0,,['Bar-le-Duc']
+Bar-le-Duc,Toul ,TER,429437,07-03-2023,15:16:00,15:16:00,0,,['Toul']
+Toul,Bar-le-Duc ,TER,429436,07-03-2023,15:37:00,15:37:00,0,,['Bar-le-Duc']
+Saint-Quentin,Paris Nord ,TER HDF,847904,07-03-2023,06:34:00,06:34:00,0,,"['Pont-Sainte-Maxence', 'Creil', 'Paris Nord']"
+Compiègne,Paris Nord ,TER HDF,847856,07-03-2023,07:18:00,07:18:00,0,,"['Le Meux - La-Croix-Saint-Ouen', 'Longueil-Sainte-Marie', 'Chevrières', 'Pont-Sainte-Maxence', 'Rieux - Angicourt', 'Villers-Saint-Paul', 'Creil', 'Chantilly - Gouvieux', 'Orry-la-Ville - Coye', 'Paris Nord']"
+Paris Nord,Saint-Quentin ,TER HDF,847903,07-03-2023,07:28:00,07:28:00,0,,"['Noyon', 'Chauny', 'Tergnier', 'Saint-Quentin']"
+Saint-Quentin,Paris Nord ,TER HDF,847906,07-03-2023,07:35:00,07:35:00,0,,"['Pont-Sainte-Maxence', 'Creil', 'Paris Nord']"
+Compiègne,Paris Nord ,TER HDF,847818,07-03-2023,12:06:00,12:06:00,0,,"['Le Meux - La-Croix-Saint-Ouen', 'Longueil-Sainte-Marie', 'Chevrières', 'Pont-Sainte-Maxence', 'Rieux - Angicourt', 'Villers-Saint-Paul', 'Creil', 'Chantilly - Gouvieux', 'Orry-la-Ville - Coye', 'Paris Nord']"
+Compiègne,Saint-Quentin ,TER HDF,849623,07-03-2023,16:28:00,16:28:00,0,,"['Longueil-Annel', 'Thourotte', 'Ribécourt', 'Ourscamps', 'Noyon', 'Appilly', 'Chauny', 'Tergnier', 'Mennessis', 'Montescourt', 'Saint-Quentin']"
+Saint-Quentin,Paris Nord ,TER HDF,847920,07-03-2023,17:34:00,17:34:00,0,,"['Pont-Sainte-Maxence', 'Creil', 'Paris Nord']"
+Compiègne,Paris Nord ,TER HDF,847878,07-03-2023,18:10:00,18:10:00,0,,"['Jaux', 'Le Meux - La-Croix-Saint-Ouen', 'Longueil-Sainte-Marie', 'Chevrières', 'Pont-Sainte-Maxence', 'Rieux - Angicourt', 'Villers-Saint-Paul', 'Creil', 'Chantilly - Gouvieux', 'Orry-la-Ville - Coye', 'Paris Nord']"
+Paris Nord,Saint-Quentin ,TER HDF,847925,07-03-2023,18:27:00,18:27:00,0,,"['Noyon', 'Chauny', 'Tergnier', 'Saint-Quentin']"
+Paris Nord,Maubeuge ,TER HDF,16471,07-03-2023,20:00:00,20:00:00,0,,"['Saint-Quentin', 'Aulnoye-Aymeries', 'Maubeuge']"
+Dijon Ville,Paris-Bercy Bourgogne - Pays d'Auvergne ,TER,17750,07-03-2023,05:33:00,05:33:00,0,,"['Les Laumes - Alésia', 'Montbard', 'Nuits sous Ravières', 'Tonnerre', 'Saint-Florentin - Vergigny', 'Laroche - Migennes', 'Joigny', 'Sens', 'Paris-Bercy Bourgogne - Pays d\'Auvergne"", \'links\': [], \'coord\': {\'lat\': \'48.839215\', \'lon\': \'2.382791\'}, \'label\': ""Paris-Bercy Bourgogne - Pays d\'Auvergne (Paris)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87686667:LongDistanceTrain\'']"
+Dijon Ville,Lyon Part Dieu ,TER,17801,07-03-2023,05:38:00,05:38:00,0,,"['Beaune', 'Chagny', 'Chalon-sur-Saône', 'Tournus', 'Mâcon', 'Belleville sur Saône', 'Villefranche-sur-Saône', 'Saint-Germain-au-Mont-d\'Or"", \'links\': [], \'coord\': {\'lat\': \'45.888431\', \'lon\': \'4.804206\'}, \'label\': ""Saint-Germain-au-Mont-d\'Or (Saint-Germain-au-Mont-d\'Or)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87721282:LongDistanceTrain\'', 'Lyon Part Dieu']"
+Dijon Ville,Nevers ,TER,893003,07-03-2023,06:12:00,06:12:00,0,,"['Beaune', 'Montchanin', 'Le Creusot', 'Étang', 'Luzy', 'Cercy-la-Tour', 'Decize', 'Imphy', 'Nevers']"
+Dijon Ville,Besançon-Viotte ,TER,894251,07-03-2023,06:14:00,06:14:00,0,,"['Genlis', 'Collonges', 'Auxonne', 'Dole-Ville', 'Orchamps', 'Ranchot', 'Saint-Vit', 'Dannemarie - Velesmes', 'Besançon-Viotte']"
+Dijon Ville,Lyon Part Dieu ,TER,17803,07-03-2023,06:38:00,06:38:00,0,,"['Beaune', 'Chagny', 'Chalon-sur-Saône', 'Tournus', 'Mâcon', 'Belleville sur Saône', 'Villefranche-sur-Saône', 'Saint-Germain-au-Mont-d\'Or"", \'links\': [], \'coord\': {\'lat\': \'45.888431\', \'lon\': \'4.804206\'}, \'label\': ""Saint-Germain-au-Mont-d\'Or (Saint-Germain-au-Mont-d\'Or)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87721282:LongDistanceTrain\'', 'Lyon Part Dieu']"
+Dijon Ville,Chalon-sur-Saône ,TER,891403,07-03-2023,07:23:00,07:23:00,0,,"['Gevrey-Chambertin', 'Vougeot - Gilly-lès-Cîteaux', 'Nuits-Saint-Georges', 'Beaune', 'Chagny', 'Rully', 'Fontaines - Mercurey', 'Chalon-sur-Saône']"
+Besançon-Viotte,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6762,07-03-2023,07:24:00,07:24:00,0,,"['Montbard', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Mâcon,Paris-Bercy Bourgogne - Pays d'Auvergne ,TER,17752,07-03-2023,07:33:00,07:33:00,0,,"['Les Laumes - Alésia', 'Montbard', 'Nuits sous Ravières', 'Tonnerre', 'Saint-Florentin - Vergigny', 'Laroche - Migennes', 'Joigny', 'Sens', 'Paris-Bercy Bourgogne - Pays d\'Auvergne"", \'links\': [], \'coord\': {\'lat\': \'48.839215\', \'lon\': \'2.382791\'}, \'label\': ""Paris-Bercy Bourgogne - Pays d\'Auvergne (Paris)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87686667:LongDistanceTrain\'']"
+Dijon Ville,Besançon-Viotte ,TER,894205,07-03-2023,07:42:00,07:42:00,0,,"['Genlis', 'Auxonne', 'Dole-Ville', 'Saint-Vit', 'Besançon-Viotte']"
+Douai,Arras ,TER HDF,36020,07-03-2023,05:24:00,05:24:00,0,,['Arras']
+Amiens,Lille Flandres ,TER HDF,843901,07-03-2023,06:45:00,06:45:00,0,,['Lille Flandres']
+Valenciennes,Paris Nord ,TGV INOUI,7106,07-03-2023,07:35:00,07:35:00,0,,"['Arras', 'Paris Nord']"
+Amiens,Lille Flandres ,TER HDF,843903,07-03-2023,07:45:00,07:45:00,0,,['Lille Flandres']
+Douai,Cambrai ,TER HDF,36138,07-03-2023,11:27:00,11:27:00,0,,"['Sin-le-Noble', 'Cantin', 'Arleux', 'Aubigny-au-Bac', 'Cambrai']"
+Boulogne-Ville,Paris Nord ,TGV INOUI,7520,07-03-2023,13:23:00,13:23:00,0,,"['Arras', 'Paris Nord']"
+Douai,Valenciennes ,TER HDF,435001,07-03-2023,13:24:00,13:24:00,0,,['Valenciennes']
+Lille Flandres,Amiens ,TER HDF,843920,07-03-2023,17:16:00,17:16:00,0,,"['Arras', 'Albert', 'Corbie', 'Amiens']"
+Dunkerque,Lille Flandres ,TER HDF,844902,07-03-2023,06:12:00,06:12:00,0,,"['Bergues', 'Esquelbecq', 'Arnèke', 'Cassel', 'Hazebrouck', 'Bailleul', 'Armentières', 'Lille Flandres']"
+Dunkerque,Calais Ville ,TER HDF,36137,07-03-2023,08:05:00,08:05:00,0,,"['Coudekerque-Branche', 'Grande-Synthe', 'Bourbourg', 'Gravelines', 'Beau Marais', 'Les Fontinettes', 'Calais Ville']"
+Dunkerque,Lille Flandres ,TER HDF,844914,07-03-2023,16:12:00,16:12:00,0,,"['Bergues', 'Esquelbecq', 'Arnèke', 'Cassel', 'Hazebrouck', 'Bailleul', 'Armentières', 'Lille Flandres']"
+Dunkerque,Lille Flandres ,TER HDF,844916,07-03-2023,17:12:00,17:12:00,0,,"['Bergues', 'Esquelbecq', 'Arnèke', 'Cassel', 'Hazebrouck', 'Bailleul', 'Armentières', 'Lille Flandres']"
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,09:50:00,09:50:00,0,,"['Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+La Rochelle,Fontenay-le-Comte Pôle d'Echange Multi-Usage ,TER,57856,07-03-2023,12:37:00,12:37:00,0,,"['Marans Place du Marquis d\'Aligre"", \'links\': [], \'coord\': {\'lat\': \'46.307241\', \'lon\': \'-0.991639\'}, \'label\': ""Marans Place du Marquis d\'Aligre (Marans)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87389882:Coach\'', 'L\'Île d\'Elle"", \'links\': [], \'coord\': {\'lat\': \'46.325164\', \'lon\': \'-0.949199\'}, \'label\': ""L\'Île d\'Elle (L\'Île-d\'Elle)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485078:Coach\'', 'Vix', 'Velluire', 'Fontenay-le-Comte Pôle d\'Echange Multi-Usage"", \'links\': [], \'coord\': {\'lat\': \'46.461074\', \'lon\': \'-0.809593\'}, \'label\': ""Fontenay-le-Comte Pôle d\'Echange Multi-Usage (Fontenay-le-Comte)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485615:Coach\'']"
+La Rochelle,Fontenay-le-Comte Pôle d'Echange Multi-Usage ,TER,57852,07-03-2023,18:00:00,18:00:00,0,,"['Marans Place du Marquis d\'Aligre"", \'links\': [], \'coord\': {\'lat\': \'46.307241\', \'lon\': \'-0.991639\'}, \'label\': ""Marans Place du Marquis d\'Aligre (Marans)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87389882:Coach\'', 'L\'Île d\'Elle"", \'links\': [], \'coord\': {\'lat\': \'46.325164\', \'lon\': \'-0.949199\'}, \'label\': ""L\'Île d\'Elle (L\'Île-d\'Elle)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485078:Coach\'', 'Vix', 'Velluire', 'Fontenay-le-Comte Pôle d\'Echange Multi-Usage"", \'links\': [], \'coord\': {\'lat\': \'46.461074\', \'lon\': \'-0.809593\'}, \'label\': ""Fontenay-le-Comte Pôle d\'Echange Multi-Usage (Fontenay-le-Comte)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485615:Coach\'']"
+La Rochelle,Fontenay-le-Comte Pôle d'Echange Multi-Usage ,TER,57854,07-03-2023,19:15:00,19:15:00,0,,"['Marans Place du Marquis d\'Aligre"", \'links\': [], \'coord\': {\'lat\': \'46.307241\', \'lon\': \'-0.991639\'}, \'label\': ""Marans Place du Marquis d\'Aligre (Marans)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87389882:Coach\'', 'L\'Île d\'Elle"", \'links\': [], \'coord\': {\'lat\': \'46.325164\', \'lon\': \'-0.949199\'}, \'label\': ""L\'Île d\'Elle (L\'Île-d\'Elle)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485078:Coach\'', 'Vix', 'Velluire', 'Fontenay-le-Comte Pôle d\'Echange Multi-Usage"", \'links\': [], \'coord\': {\'lat\': \'46.461074\', \'lon\': \'-0.809593\'}, \'label\': ""Fontenay-le-Comte Pôle d\'Echange Multi-Usage (Fontenay-le-Comte)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87485615:Coach\'']"
+Le Havre,Paris Saint-Lazare ,TER,3102,07-03-2023,06:30:00,06:30:00,0,,"['Bréauté - Beuzeville', 'Yvetot', 'Rouen Rive Droite', 'Paris Saint-Lazare']"
+Le Havre,Paris Saint-Lazare ,TER,3118,07-03-2023,14:08:00,14:08:00,0,,"['Bréauté - Beuzeville', 'Yvetot', 'Rouen Rive Droite', 'Paris Saint-Lazare']"
+Le Mans,Paris - Montparnasse - Hall 1 & 2 ,TER,16754,07-03-2023,06:01:00,06:01:00,0,,"['Nogent-le-Rotrou', 'La Loupe', 'Courville-sur-Eure', 'Chartres', 'Versailles Chantiers', 'Paris - Montparnasse - Hall 1 & 2']"
+Le Mans,Angers-Saint-Laud ,TER,857439,07-03-2023,06:17:00,06:17:00,0,,"['La Suze', 'Sablé-sur-Sarthe', 'Morannes', 'Étriché - Châteauneuf', 'Tiercé', 'Le Vieux Briollay', 'Angers Maître École', 'Angers-Saint-Laud']"
+Le Mans,La Flèche ,TER,57805,07-03-2023,06:25:00,06:25:00,0,,"['Le Mans Viaduc', 'Le Mans Pontlieue', 'Arnage rue du Port', 'Guécélard - Belle Étoile', 'Guécélard - Centre-Église', 'Parigné-le-Pôlin Centre - La Chenaie', 'Cérans-Foulletourte - Église', 'Cérans-Foulletourte Croissant', 'La Fontaine-Saint-Martin - Le Chêne Vert', 'Saint-Jean-de-la-Motte - Point du Jour', 'Clermont-Créans - Centre', 'La Flèche']"
+Rennes,Paris - Montparnasse - Hall 1 & 2 ,TGV INOUI,8072,07-03-2023,06:48:00,06:48:00,0,,['Paris - Montparnasse - Hall 1 & 2']
+Le Mans,Laval ,TER,857603,07-03-2023,06:50:00,06:50:00,0,,"['Conlie', 'Sillé-le-Guillaume', 'Voutré', 'Évron', 'Neau', 'Montsûrs', 'Louverné', 'Laval']"
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,07:30:00,07:30:00,0,,"['Massy TGV', 'Marne-la-Vallée - Chessy', 'Aéroport Charles de Gaulle 2 TGV', 'TGV Haute Picardie', 'Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Paris - Montparnasse - Hall 1 & 2,Nantes ,TGV INOUI,8863,07-03-2023,07:32:00,07:32:00,0,,"['Angers-Saint-Laud', 'Nantes']"
+Paris - Montparnasse - Hall 1 & 2,Nantes ,OUIGO,7621,07-03-2023,08:41:30,08:41:30,0,,"['Angers-Saint-Laud', 'Nantes']"
+Le Mans,La Flèche ,TER,57743,07-03-2023,08:51:00,08:51:00,0,,"['Le Mans - Boulevard Lefaucheux', 'Guécélard - Centre-Église', 'Cérans-Foulletourte Croissant', 'La Fontaine-Saint-Martin - Le Chêne Vert', 'Clermont-Créans - Centre', 'La Flèche']"
+Le Mans,Caen ,TER,36721,07-03-2023,09:15:00,09:15:00,0,,"['Alençon', 'Argentan', 'Caen']"
+Lens,Lille Flandres ,TER HDF,842100,07-03-2023,06:14:00,06:14:00,0,,"['Sallaumines', 'Loison-sous-Lens', 'Pont-à-Vendin', 'Meurchin', 'Bauvin - Provin', 'Don - Sainghin', 'La Fontaine', 'Wavrin', 'Santes', 'Haubourdin', 'Loos lez Lille', 'Lille CHR', 'Lille Porte de Douai', 'Lille Flandres']"
+Lens,Lille Flandres ,TER HDF,843205,07-03-2023,06:40:00,06:40:00,0,,"['Billy-Montigny', 'Hénin-Beaumont', 'Dourges', 'Libercourt', 'Seclin', 'Lille Flandres']"
+Hazebrouck,Arras ,TER HDF,846522,07-03-2023,07:26:00,07:26:00,0,,"['Avion', 'Vimy', 'Farbus', 'Bailleul-Sir-Berthoult', 'Arras']"
+Lens,Lille Flandres ,TER HDF,843209,07-03-2023,07:40:00,07:40:00,0,,"['Billy-Montigny', 'Hénin-Beaumont', 'Dourges', 'Libercourt', 'Seclin', 'Lille Flandres']"
+Arras,Hazebrouck ,TER HDF,846545,07-03-2023,08:33:00,08:33:00,0,,"['Liévin', 'Bully - Grenay', 'Noeux', 'Béthune', 'Lillers', 'Ham-en-Artois', 'Isbergues', 'Hazebrouck']"
+Lens,Lille Flandres ,TER HDF,842112,07-03-2023,16:14:00,16:14:00,0,,"['Sallaumines', 'Loison-sous-Lens', 'Pont-à-Vendin', 'Meurchin', 'Bauvin - Provin', 'Don - Sainghin', 'La Fontaine', 'Wavrin', 'Santes', 'Haubourdin', 'Loos lez Lille', 'Lille CHR', 'Lille Porte de Douai', 'Lille Flandres']"
+Lens,Lille Flandres ,TER HDF,843231,07-03-2023,16:40:00,16:40:00,0,,"['Billy-Montigny', 'Hénin-Beaumont', 'Dourges', 'Libercourt', 'Seclin', 'Lille Flandres']"
+Dunkerque,Arras ,TER HDF,846424,07-03-2023,17:52:00,17:52:00,0,,"['Avion', 'Arras']"
+Paris Nord,Boulogne-Ville ,TGV INOUI,7551,07-03-2023,08:15:00,08:15:00,0,,"['Calais - Fréthun', 'Boulogne-Ville']"
+Bruxelles-Midi - Brussel-Zuid,St Pancras International ,Eurostar,9117,07-03-2023,09:31:00,09:31:00,0,,['St Pancras International']
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,10:27:00,10:27:00,0,,['Bruxelles-Midi - Brussel-Zuid']
+Boulogne-Ville,Paris Nord ,TGV INOUI,7516,07-03-2023,10:51:30,10:51:30,0,,"['Arras', 'Paris Nord']"
+St Pancras International,Bruxelles-Midi - Brussel-Zuid ,Eurostar,9116,07-03-2023,11:37:00,11:37:00,0,,['Bruxelles-Midi - Brussel-Zuid']
+Marseille - Saint-Charles,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9854,07-03-2023,11:37:00,11:37:00,0,,['Bruxelles-Midi - Brussel-Zuid']
+Boulogne-Ville,Paris Nord ,TGV INOUI,7520,07-03-2023,13:03:00,13:03:00,0,,"['Douai', 'Arras', 'Paris Nord']"
+Bruxelles-Midi - Brussel-Zuid,St Pancras International ,Eurostar,9135,07-03-2023,13:35:00,13:35:00,0,,['St Pancras International']
+St Pancras International,Amsterdam Centraal ,Eurostar,9126,07-03-2023,13:39:00,13:39:00,0,,"['Bruxelles-Midi - Brussel-Zuid', 'Rotterdam Centraal', 'Amsterdam Centraal']"
+Bruxelles-Midi - Brussel-Zuid,St Pancras International ,Eurostar,9141,07-03-2023,15:30:00,15:30:00,0,,['St Pancras International']
+Lille Flandres,Paris Nord ,TGV INOUI,7002,07-03-2023,06:42:00,06:42:00,0,,['Paris Nord']
+Lille Flandres,Béthune ,TER HDF,842403,07-03-2023,07:06:00,07:06:00,0,,"['Lille CHR', 'La Bassée', 'Béthune']"
+Lille Flandres,Tournai ,TER,19903,07-03-2023,07:08:00,07:08:00,0,,"['Lezennes', 'Hellemmes', 'Annappes', 'Ascq', 'Baisieux', 'Froyennes', 'Tournai']"
+Lille Flandres,Courtrai ,TER,19701,07-03-2023,07:09:00,07:09:00,0,,"['Croix - Wasquehal', 'Croix l\'Allumette"", \'links\': [], \'coord\': {\'lat\': \'50.6868\', \'lon\': \'3.151126\'}, \'label\': ""Croix l\'Allumette (Croix)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87281055:Train\'', 'Roubaix', 'Tourcoing', 'Mouscron Moeskroen', 'Courtrai']"
+Lille Flandres,Comines ,TER HDF,36009,07-03-2023,07:19:00,07:19:00,0,,"['Quesnoy-sur-Deûle', 'Sainte-Marguerite', 'Comines']"
+Lille Flandres,Hazebrouck ,TER HDF,844107,07-03-2023,07:23:00,07:23:00,0,,"['La Madeleine', 'Saint-André', 'Pérenchies', 'Armentières', 'Nieppe', 'Steenwerck', 'Bailleul', 'Strazeele', 'Hazebrouck']"
+Lille Flandres,Maubeuge ,TER HDF,841805,07-03-2023,07:35:00,07:35:00,0,,"['Orchies', 'Saint-Amand-les-Eaux', 'Valenciennes', 'Le Quesnoy', 'Aulnoye-Aymeries', 'Maubeuge']"
+Lille Flandres,Wambrechies ,TER HDF,36011,07-03-2023,07:36:00,07:36:00,0,,"['Marquette', 'Wambrechies']"
+Lille Flandres,Lens ,TER HDF,843206,07-03-2023,07:39:00,07:39:00,0,,"['Seclin', 'Libercourt', 'Dourges', 'Hénin-Beaumont', 'Billy-Montigny', 'Lens']"
+Lille Flandres,Dunkerque ,TER HDF,844903,07-03-2023,07:40:00,07:40:00,0,,"['Armentières', 'Bailleul', 'Hazebrouck', 'Cassel', 'Arnèke', 'Esquelbecq', 'Bergues', 'Dunkerque']"
+Lyon Part Dieu,Chambéry - Challes-les-Eaux ,TER,18503,07-03-2023,07:50:00,07:50:00,0,,"['Bourgoin-Jallieu', 'La Tour-du-Pin', 'Pont-de-Beauvoisin', 'Lépin-le-Lac - La Bauche', 'Chambéry - Challes-les-Eaux']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6608,07-03-2023,08:04:00,08:04:00,0,,"['Le Creusot - Montceau-les-Mines - Montchanin TGV', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Lyon Part Dieu,Nice ,TGV INOUI,6805,07-03-2023,08:06:00,08:06:00,0,,"['Valence TGV Rhône-Alpes Sud', 'Avignon TGV', 'Aix-en-Provence TGV', 'Marseille - Saint-Charles', 'Toulon', 'Saint-Raphaël - Valescure', 'Cannes', 'Antibes', 'Nice']"
+Lyon Part Dieu,Annecy ,TER,17972,07-03-2023,08:08:00,08:08:00,0,,"['Ambérieu-en-Bugey', 'Aix-les-Bains - Le Revard', 'Albens', 'Rumilly', 'Annecy']"
+Saint-Étienne Châteaucreux,Ambérieu-en-Bugey ,TER,886809,07-03-2023,08:12:00,08:12:00,0,,"['Crépieux la Pape', 'Miribel', 'Saint-Maurice-de-Beynost', 'Beynost', 'Montluel', 'La Valbonne', 'Meximieux - Pérouges', 'Ambérieu-en-Bugey']"
+Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache ,TGV INOUI,6601,07-03-2023,08:13:00,08:13:00,0,,['Lyon Perrache']
+Lyon Part Dieu,Valence Ville ,TER,886113,07-03-2023,08:20:00,08:20:00,0,,"['Vienne', 'Le Péage-de-Roussillon', 'Tain-l\'Hermitage - Tournon"", \'links\': [], \'coord\': {\'lat\': \'45.072178\', \'lon\': \'4.839708\'}, \'label\': ""Tain-l\'Hermitage - Tournon (Tain-l\'Hermitage)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87761163:LongDistanceTrain\'', 'Valence Ville']"
+Ambérieu-en-Bugey,Saint-Étienne Châteaucreux ,TER,886708,07-03-2023,08:24:00,08:24:00,0,,"['Givors Ville', 'Rive-de-Gier', 'Saint-Chamond', 'Saint-Étienne Châteaucreux']"
+Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache ,TGV INOUI,6641,07-03-2023,08:28:00,08:28:00,0,,['Lyon Perrache']
+Lyon Perrache,Valence - Gare Routière ,TER,456101,07-03-2023,05:10:00,05:10:00,0,,"['Vienne - Gare Routière', 'Valence - Gare Routière']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6608,07-03-2023,07:50:00,07:50:00,0,,"['Lyon Part Dieu', 'Le Creusot - Montceau-les-Mines - Montchanin TGV', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Lyon Perrache,Saint-André-le-Gaz ,TER,887309,07-03-2023,07:57:00,07:57:00,0,,"['Lyon - Jean Macé', 'Vénissieux', 'Saint-Priest', 'Saint-Quentin-Fallavier', 'La Verpillière', 'L\'Isle-d\'Abeau"", \'links\': [], \'coord\': {\'lat\': \'45.607647\', \'lon\': \'5.219598\'}, \'label\': ""L\'Isle-d\'Abeau (L\'Isle-d\'Abeau)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87761239:Train\'', 'Bourgoin-Jallieu', 'Cessieu', 'La Tour-du-Pin', 'Saint-André-le-Gaz']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6610,07-03-2023,08:50:00,08:50:00,0,,"['Lyon Part Dieu', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Valence Ville,Lyon Part Dieu ,TER,886112,07-03-2023,08:51:00,08:51:00,0,,[]
+Lyon Perrache,Saint-André-le-Gaz ,TER,887313,07-03-2023,08:57:00,08:57:00,0,,"['Lyon - Jean Macé', 'Vénissieux', 'Saint-Priest', 'Saint-Quentin-Fallavier', 'La Verpillière', 'L\'Isle-d\'Abeau"", \'links\': [], \'coord\': {\'lat\': \'45.607647\', \'lon\': \'5.219598\'}, \'label\': ""L\'Isle-d\'Abeau (L\'Isle-d\'Abeau)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87761239:Train\'', 'Bourgoin-Jallieu', 'Cessieu', 'La Tour-du-Pin', 'Saint-André-le-Gaz']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,OUIGO,7802,07-03-2023,09:24:00,09:24:00,0,,"['Lyon Part Dieu', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6612,07-03-2023,09:50:00,09:50:00,0,,"['Lyon Part Dieu', 'Le Creusot - Montceau-les-Mines - Montchanin TGV', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6614,07-03-2023,10:50:00,10:50:00,0,,"['Lyon Part Dieu', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Lyon Perrache,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6618,07-03-2023,12:49:00,12:49:00,0,,"['Lyon Part Dieu', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Arvant,Aurillac ,TER,31121,07-03-2023,06:52:00,06:52:00,0,,"['Neussargues', 'Murat', 'Le Lioran', 'Vic-sur-Cère', 'Aurillac']"
+Aurillac,Arvant ,TER,31122,07-03-2023,08:58:00,08:58:00,0,,['Arvant']
+Paris - Montparnasse - Hall 1 & 2,Nantes ,TGV INOUI,8863,07-03-2023,06:38:30,06:38:30,0,,"['Le Mans', 'Angers-Saint-Laud', 'Nantes']"
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,08:26:30,08:26:30,0,,"['Marne-la-Vallée - Chessy', 'Aéroport Charles de Gaulle 2 TGV', 'TGV Haute Picardie', 'Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Nice,Grasse ,TER,881102,07-03-2023,05:42:00,05:42:00,0,,"['Nice Saint-Augustin', 'Saint-Laurent-du-Var', 'Cros de Cagnes', 'Cagnes-sur-Mer', 'Villeneuve-Loubet - Plage', 'Biot', 'Antibes', 'Juan les Pins', 'Le Golfe Juan - Vallauris', 'Cannes', 'Le Bosquet', 'La Frayère', 'Ranguin', 'Mouans-Sartoux', 'Grasse']"
+Menton,Grasse ,TER,86002,07-03-2023,06:14:00,06:14:00,0,,"['Nice Saint-Augustin', 'Saint-Laurent-du-Var', 'Cros de Cagnes', 'Cagnes-sur-Mer', 'Villeneuve-Loubet - Plage', 'Biot', 'Antibes', 'Juan les Pins', 'Le Golfe Juan - Vallauris', 'Cannes', 'Le Bosquet', 'La Frayère', 'Ranguin', 'Mouans-Sartoux', 'Grasse']"
+Nice,Marseille - Saint-Charles ,TER,17474,07-03-2023,06:25:00,06:25:00,0,,"['Nice Saint-Augustin', 'Antibes', 'Cannes', 'Saint-Raphaël - Valescure', 'Les Arcs - Draguignan', 'Toulon', 'Marseille - Saint-Charles']"
+Cannes la Bocca,Ventimiglia - Stazione ,TER,86009,07-03-2023,06:50:00,06:50:00,0,,"['Nice Riquier', 'Villefranche-sur-Mer', 'Beaulieu-sur-Mer', 'Èze', 'Cap-d\'Ail"", \'links\': [], \'coord\': {\'lat\': \'43.7206\', \'lon\': \'7.394384\'}, \'label\': ""Cap-d\'Ail (Cap-d\'Ail)"", \'equipments\': [], \'id\': \'stop_point:SNCF:87756395:Train\'', 'Monaco Monte Carlo', 'Roquebrune-Cap-Martin', 'Carnoles', 'Menton', 'Menton Garavan', 'Ventimiglia - Stazione']"
+Ventimiglia - Stazione,Grasse ,TER,86006,07-03-2023,07:14:00,07:14:00,0,,"['Nice Saint-Augustin', 'Saint-Laurent-du-Var', 'Cros de Cagnes', 'Cagnes-sur-Mer', 'Villeneuve-Loubet - Plage', 'Biot', 'Antibes', 'Juan les Pins', 'Le Golfe Juan - Vallauris', 'Cannes', 'Le Bosquet', 'La Frayère', 'Ranguin', 'Mouans-Sartoux', 'Grasse']"
+Cannes la Bocca,Ventimiglia - Stazione ,TER,86013,07-03-2023,07:33:00,07:33:00,0,,"['Nice Riquier', 'Villefranche-sur-Mer', 'Beaulieu-sur-Mer', 'Monaco Monte Carlo', 'Carnoles', 'Menton', 'Menton Garavan', 'Ventimiglia - Stazione']"
+Nîmes Centre,Port-Bou ,TER,86969,07-03-2023,06:05:00,06:05:00,0,,"['Vergèze - Codognan', 'Lunel', 'Baillargues', 'Montpellier Saint-Roch', 'Frontignan', 'Sète', 'Agde', 'Béziers', 'Narbonne', 'Port-la-Nouvelle', 'Leucate la Franqui', 'Salses', 'Rivesaltes', 'Perpignan', 'Elne', 'Argelès-sur-Mer', 'Collioure', 'Port-Vendres', 'Banyuls-sur-Mer', 'Cerbère', 'Port-Bou']"
+Montpellier Saint-Roch,Paris - Gare de Lyon - Hall 1 & 2 ,TGV INOUI,6200,07-03-2023,06:19:00,06:19:00,0,,"['Valence TGV Rhône-Alpes Sud', 'Paris - Gare de Lyon - Hall 1 & 2']"
+Avignon Centre,Perpignan ,TER,876407,07-03-2023,08:15:00,08:15:00,0,,"['Vergèze - Codognan', 'Lunel', 'Baillargues', 'Montpellier Saint-Roch', 'Frontignan', 'Sète', 'Agde', 'Béziers', 'Narbonne', 'Port-la-Nouvelle', 'Leucate la Franqui', 'Salses', 'Rivesaltes', 'Perpignan']"
+Paris - Montparnasse - Hall 1 & 2,Chartres ,TER,862403,07-03-2023,06:09:00,06:09:00,0,,"['Versailles Chantiers', 'Rambouillet', 'Gazeran', 'Épernon', 'Maintenon', 'Saint-Piat', 'Jouy', 'La Villette Saint-Prest', 'Chartres']"
+Paris - Montparnasse - Hall 1 & 2,Nantes ,TGV INOUI,8863,07-03-2023,06:26:00,06:26:00,0,,"['Massy TGV', 'Le Mans', 'Angers-Saint-Laud', 'Nantes']"
+Paris - Montparnasse - Hall 1 & 2,Hendaye ,TGV INOUI,8531,07-03-2023,07:08:00,07:08:00,0,,"['Bordeaux Saint-Jean', 'Dax', 'Bayonne', 'Biarritz', 'Saint-Jean-de-Luz - Ciboure', 'Hendaye']"
+Paris - Montparnasse - Hall 1 & 2,Nogent-le-Rotrou ,TER,862583,07-03-2023,07:09:00,07:09:00,0,,"['Versailles Chantiers', 'Rambouillet', 'Gazeran', 'Épernon', 'Maintenon', 'Saint-Piat', 'Jouy', 'La Villette Saint-Prest', 'Chartres', 'Amilly Ouerray', 'Saint-Aubin - Saint-Luperce', 'Courville-sur-Eure', 'Pontgouin', 'La Loupe', 'Bretoncelles', 'Condé-sur-Huisne', 'Nogent-le-Rotrou']"
+Paris - Montparnasse - Hall 1 & 2,Nantes ,OUIGO,7621,07-03-2023,07:41:00,07:41:00,0,,"['Le Mans', 'Angers-Saint-Laud', 'Nantes']"
+Paris - Montparnasse - Hall 1 & 2,Chartres ,TER,862411,07-03-2023,08:09:00,08:09:00,0,,"['Versailles Chantiers', 'Saint-Quentin en Yvelines - Montigny-le-Bretonneux', 'Rambouillet', 'Gazeran', 'Épernon', 'Maintenon', 'Saint-Piat', 'Jouy', 'La Villette Saint-Prest', 'Chartres']"
+Paris - Montparnasse - Hall 1 & 2,Quimper ,TGV INOUI,8707,07-03-2023,08:40:00,08:40:00,0,,"['Laval', 'Rennes', 'Redon', 'Vannes', 'Auray', 'Lorient', 'Quimper']"
+Châtellerault,Angoulême ,TER NA,863155,07-03-2023,08:19:00,08:19:00,0,,"['Ligugé', 'Vivonne', 'Saint-Saviol', 'Ruffec', 'Luxé', 'Angoulême']"
+Poitiers,Angoulême ,TER NA,450235,07-03-2023,12:16:00,12:16:00,0,,"['Ligugé', 'Iteuil', 'Vivonne', 'Anché - Voulon', 'Epanvilliers', 'Saint-Saviol', 'Ruffec', 'Luxé', 'Angoulême']"
+Rennes,Bruxelles-Midi - Brussel-Zuid ,TGV INOUI,9884,07-03-2023,06:23:00,06:23:00,0,,"['Laval', 'Le Mans', 'Massy TGV', 'Marne-la-Vallée - Chessy', 'Aéroport Charles de Gaulle 2 TGV', 'TGV Haute Picardie', 'Lille Europe', 'Bruxelles-Midi - Brussel-Zuid']"
+Saint-Brieuc,Paris - Montparnasse - Hall 1 & 2 ,TGV INOUI,8680,07-03-2023,06:35:00,06:35:00,0,,"['Laval', 'Paris - Montparnasse - Hall 1 & 2']"
+Rennes,Caen ,TER,36891,07-03-2023,07:30:00,07:30:00,0,,"['Rennes Beaulieu Chimie', 'Avranches', 'Guilberville-le Saussey', 'Caen']"
+Rennes,Saint-Malo ,TER,854309,07-03-2023,07:35:00,07:35:00,0,,"['Pontchaillou', 'Montreuil-sur-Ille', 'Combourg', 'Dol-de-Bretagne', 'La Fresnais', 'Saint-Malo']"
+Rennes,Vannes ,TER,856115,07-03-2023,07:40:00,07:40:00,0,,"['Bruz', 'Messac - Guipry', 'Beslé', 'Massérac', 'Redon', 'Malansac', 'Questembert', 'Vannes']"
+Rennes,Laval ,TER,857658,07-03-2023,07:43:00,07:43:00,0,,"['Cesson-Sévigné', 'Noyal - Acigné', 'Servon', 'Châteaubourg', 'Vitré', 'Saint-Pierre-la-Cour', 'Port-Brillet', 'Le Genest', 'Laval']"
+Rennes,Saint-Malo ,TER,854315,07-03-2023,08:35:00,08:35:00,0,,"['Pontchaillou', 'Montreuil-sur-Ille', 'Combourg', 'Dol-de-Bretagne', 'La Gouesnière - Cancale - Saint-Méloir-des-Ondes', 'Saint-Malo']"
+Rennes,Loudéac ,TER,92001,07-03-2023,08:45:00,08:45:00,0,,"['Plémet', 'Loudéac Triskell', 'Loudéac']"
+Rennes,Fougères ,TER,82201,07-03-2023,08:45:00,08:45:00,0,,['Fougères']
+Rennes,Dinard ,TER,82001,07-03-2023,09:00:00,09:00:00,0,,['Dinard']
+Strasbourg,Sélestat ,TER,30149,07-03-2023,05:36:00,05:36:00,0,,"['Fegersheim - Lipsheim', 'Erstein', 'Benfeld', 'Sélestat']"
+Strasbourg,Lauterbourg ,TER,30342,07-03-2023,12:23:00,12:23:00,0,,"['Bischheim Arrêt CTS R. Gare', 'Hoenheim - Tram', 'La Wantzenau', 'Kilstett Rue de la Gare', 'Gambsheim Garage Peugeot', 'Gambsheim', 'Herrlisheim', 'Drusenheim', 'Sessenheim', 'Rountzenheim', 'Rœschwoog', 'Seltz', 'Lauterbourg']"
+Strasbourg,Benfeld ,TER,30151,07-03-2023,14:25:00,14:25:00,0,,"['Fegersheim - Lipsheim', 'Erstein', 'Benfeld']"
+Strasbourg,Paris Est ,TGV INOUI,2060,07-03-2023,18:57:00,18:57:00,0,,['Paris Est']
+Mannheim - Hauptbahnhof,Paris Est ,DB SNCF,9560,07-03-2023,18:57:00,18:57:00,0,,['Paris Est']
+Strasbourg,Paris Est ,OUIGO,7694,07-03-2023,20:01:00,20:01:00,0,,['Paris Est']
+Strasbourg,Herrlisheim ,TER,30344,07-03-2023,21:00:00,21:00:00,0,,"['Bischheim Arrêt CTS R. Gare', 'Hoenheim - Tram', 'La Wantzenau', 'Kilstett Rue de la Gare', 'Gambsheim Garage Peugeot', 'Gambsheim', 'Herrlisheim']"
+Strasbourg,Rothau ,TER,30376,07-03-2023,21:00:00,21:00:00,0,,"['Molsheim', 'Mutzig Passage à Niveau', 'Mutzig Porte Centre', 'Gresswiller Abri', 'Heiligenberg - Mollkirch', 'Urmatt', 'Lutzelhouse Abri Église', 'Wisches Église', 'Russ Hersbach', 'Schirmeck - La Broque', 'Rothau']"
+Strasbourg,Diemeringen ,TER,30192,07-03-2023,21:40:00,21:40:00,0,,"['Pfaffenhoffen Mairie', 'Obermodern', 'Menchhoffen Abri', 'Ingwiller', 'Wimmenau D.919 - Rue de la Gare', 'Wingen-sur-Moder', 'Col de Puberg', 'Frohmuhl Lavoir', 'Tieffenbach - Struth', 'Adamswiller Lotissement la Forêt', 'Adamswiller Mairie', 'Diemeringen']"
+Hyères,Marseille - Saint-Charles ,TER,881602,07-03-2023,06:28:00,06:28:00,0,,"['La Seyne - Six Fours', 'Ollioules - Sanary-sur-Mer', 'Bandol', 'Saint-Cyr - Les Lecques - La Cadière', 'La Ciotat-Ceyreste', 'Cassis', 'Aubagne', 'Marseille Blancarde', 'Marseille - Saint-Charles']"
+Les Arcs - Draguignan,Marseille - Saint-Charles ,TER,881672,07-03-2023,06:52:00,06:52:00,0,,"['Ollioules - Sanary-sur-Mer', 'La Ciotat-Ceyreste', 'Aubagne', 'Marseille Blancarde', 'Marseille - Saint-Charles']"
+Hyères,Marseille - Saint-Charles ,TER,881604,07-03-2023,06:58:00,06:58:00,0,,"['La Seyne - Six Fours', 'Ollioules - Sanary-sur-Mer', 'Bandol', 'Saint-Cyr - Les Lecques - La Cadière', 'La Ciotat-Ceyreste', 'Cassis', 'Aubagne', 'Marseille Blancarde', 'Marseille - Saint-Charles']"
+Nice,Marseille - Saint-Charles ,TER,17474,07-03-2023,08:19:00,08:19:00,0,,['Marseille - Saint-Charles']
+Toulon,Marseille - Saint-Charles ,TER,881430,07-03-2023,10:28:00,10:28:00,0,,"['La Seyne - Six Fours', 'Ollioules - Sanary-sur-Mer', 'Bandol', 'Saint-Cyr - Les Lecques - La Cadière', 'La Ciotat-Ceyreste', 'Cassis', 'Aubagne', 'Marseille Blancarde', 'Marseille - Saint-Charles']"
+Marseille - Saint-Charles,Nice ,TER,17479,07-03-2023,10:42:30,10:42:30,0,,"['Carnoules', 'Les Arcs - Draguignan', 'Saint-Raphaël - Valescure', 'Cannes', 'Antibes', 'Nice Saint-Augustin', 'Nice']"
+Lyon Part Dieu,Nice ,TGV INOUI,6805,07-03-2023,11:11:00,11:11:00,0,,"['Saint-Raphaël - Valescure', 'Cannes', 'Antibes', 'Nice']"
