@@ -4,7 +4,7 @@ import json
 import datetime
 import os
 
-nb_trains = 10
+nb_trains = 100
 token = 'e7b7fedd-71d0-48c6-8cc7-749e22ba8e80'
 
 def removezero(string):
