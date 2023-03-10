@@ -1,0 +1,471 @@
+Jour,Gare (départ),Gare (arrivée),Arrivée (réelle),Arrivée (prévue),Départ (prévu),Retard (min),Cause
+09-03-2023,La Bresse - Place du Champtel,Remiremont,08:07:00,08:02:00,06:59:00,5,Embouteillage
+09-03-2023,Frasne,Neuchâtel,21:58:00,21:53:00,20:53:00,5,Prise en charge de clients en correspondance
+09-03-2023,Lyon Part Dieu,Paris - Gare de Lyon - Hall 1 & 2,13:39:00,13:34:00,11:34:00,5,Travaux sur les voies
+09-03-2023,Sain-Bel,Lyon - Saint-Paul,15:51:00,15:46:00,15:04:00,5,Retard non expliqué
+10-03-2023,Paris - Montparnasse - Hall 1 & 2,Quimper,12:43:00,12:38:00,08:40:00,5,Panne d'un aiguillage
+09-03-2023,Chambéry - Challes-les-Eaux,Saint-André-le-Gaz,19:48:00,19:43:00,18:27:00,5,Embouteillage
+09-03-2023,Orléans,Paris Austerlitz,18:47:00,18:37:00,17:34:00,10,Mise à quai tardive en gare origine
+09-03-2023,Metz Ville,Verdun,19:02:00,18:42:00,17:10:00,20,Embouteillage
+09-03-2023,Hirson,Lille Flandres,10:00:00,09:55:00,08:07:00,5,Réutilisation d'un train
+09-03-2023,Amiens,Saint-Quentin,18:12:30,17:42:30,16:46:00,30,Choc nécessitant une vérification technique sur le train
+10-03-2023,Épernay,Reims,07:34:00,07:29:00,06:49:00,5,Conditions de départ non réunies
+09-03-2023,Maubeuge,Charleroi-Central,21:53:00,21:48:00,20:53:00,5,Retard non expliqué
+09-03-2023,Lens,Lille Flandres,06:56:00,06:51:00,06:10:00,5,Défaillance de matériel
+09-03-2023,Juvancourt,Bar-sur-Aube,13:37:00,13:32:00,12:58:00,5,Embouteillage
+09-03-2023,Grenoble,Gap,11:12:00,11:07:00,08:10:00,5,Difficultés lors de la préparation du train
+09-03-2023,Compiègne,Amiens,20:12:00,20:07:00,19:13:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris Nord,Compiègne,17:10:00,16:50:00,15:37:00,20,Réutilisation d'un train
+09-03-2023,Charleroi-Central,Maubeuge,11:25:00,11:20:00,10:24:00,5,Retard non expliqué
+09-03-2023,Lille Flandres,Dunkerque,23:18:00,21:48:00,20:40:00,90,Acte de vandalisme
+09-03-2023,Sarreguemines Lycée Technique,Loupershouse,17:54:00,17:49:00,17:10:00,5,Embouteillage
+09-03-2023,Strasbourg,Bâle - SBB,09:13:00,09:08:00,07:51:00,5,Prise en charge de clients en correspondance
+09-03-2023,Creil,Beauvais - Gare SNCF,15:09:30,13:49:30,13:10:00,80,Conditions de départ non réunies
+09-03-2023,Limoux,Quillan,20:36:00,20:26:00,19:42:00,10,Embouteillage
+09-03-2023,Tournai,Lille Flandres,10:47:00,09:52:00,09:22:00,55,Incident sur un réseau ferré étranger
+10-03-2023,Strasbourg,Haguenau,07:26:00,07:21:00,06:44:00,5,Difficultés lors de la préparation du train
+09-03-2023,Valenciennes,Jeumont,08:44:00,08:39:00,07:51:00,5,Réutilisation d'un train
+09-03-2023,Romilly-sur-Seine,Troyes,08:55:00,08:40:00,07:20:00,15,Embouteillage
+09-03-2023,Toul,Neufchâteau,18:32:00,18:27:00,17:37:00,5,Embouteillage
+09-03-2023,Paris Nord,Clermont de l'Oise,18:59:30,18:54:30,18:07:00,5,Difficultés lors de la préparation du train
+09-03-2023,Metzeral,Colmar,09:20:00,09:15:00,08:39:00,5,Réutilisation d'un train
+09-03-2023,Lille Flandres,Hazebrouck,13:14:00,13:09:00,12:23:00,5,Réutilisation d'un train
+09-03-2023,Paris Nord,Amiens,10:47:00,10:42:00,09:07:00,5,Régulation du trafic
+09-03-2023,La Bresse - Place du Champtel,Remiremont,17:55:00,17:50:00,16:47:00,5,Embouteillage
+09-03-2023,Nantes,Le Mans,09:20:00,09:15:00,07:39:00,5,Difficultés lors de la préparation du train
+09-03-2023,Autun,Étang,16:52:00,16:47:00,16:26:00,5,Embouteillage
+09-03-2023,Is-sur-Tille,Les Laumes - Alésia,08:26:00,08:21:00,07:04:00,5,Réutilisation d'un train
+09-03-2023,Marseille - Saint-Charles,Marseille Blancarde,17:22:30,17:12:30,17:08:00,10,Réutilisation d'un train
+09-03-2023,Amiens,Paris Nord,17:58:00,17:53:00,16:06:00,5,Difficultés lors de la préparation du train
+09-03-2023,Creil,Paris Nord,15:58:00,15:53:00,15:20:00,5,Conditions de départ non réunies
+10-03-2023,Moûtiers - Salins - Brides-les-Bains,Bourg-Saint-Maurice,09:27:00,09:22:00,08:45:00,5,Embouteillage
+09-03-2023,La Bresse - Place du Champtel,Remiremont,16:55:00,16:50:00,15:47:00,5,Embouteillage
+09-03-2023,Sarrebourg Hôpital,Fénétrange Gendarmerie,17:52:00,17:47:00,17:05:00,5,Embouteillage
+09-03-2023,Metz Ville,Sarrebourg,18:23:00,18:18:00,17:17:00,5,Présence d'individus sur les voies
+09-03-2023,Nancy,Metz Ville,20:11:30,19:51:30,18:58:00,20,Réutilisation d'un train
+09-03-2023,Pontarlier,Frasne,17:10:00,17:05:00,16:40:00,5,Embouteillage
+09-03-2023,Compiègne,Saint-Quentin,20:13:00,20:08:00,19:04:00,5,Réutilisation d'un train
+09-03-2023,Lille Flandres,Dunkerque,19:53:00,19:48:00,18:40:00,5,Régulation du trafic
+10-03-2023,Charmes,Épinal,07:27:00,07:22:00,06:32:00,5,Embouteillage
+09-03-2023,Valenciennes,Lille Flandres,08:26:00,08:21:00,07:35:00,5,Régulation du trafic
+09-03-2023,Calais Ville,Dunkerque,07:17:00,06:47:00,06:02:00,30,Réutilisation d'un train
+09-03-2023,Saint-Quentin,Paris Nord,09:56:00,09:26:00,07:46:00,30,Conditions de départ non réunies
+09-03-2023,Hazebrouck,Lille Flandres,12:22:00,12:07:00,11:21:00,15,Conditions de départ non réunies
+09-03-2023,Hazebrouck,Lille Flandres,18:42:00,18:37:00,17:51:00,5,Réutilisation d'un train
+09-03-2023,Paray-le-Monial,Moulins-sur-Allier,19:42:00,19:37:00,18:14:00,5,Embouteillage
+09-03-2023,Sain-Bel,Lyon-Saint-Paul - La Feuillée,00:20:10,00:15:10,23:15:00,5,Embouteillage
+10-03-2023,Ussel,Tulle SNCF,07:29:00,07:24:00,05:51:00,5,Embouteillage
+09-03-2023,Charleroi-Central,Maubeuge,07:30:00,07:20:00,06:18:00,10,Incident sur un réseau ferré étranger
+10-03-2023,Strasbourg,Sarreguemines,08:03:00,07:53:00,06:34:00,10,Conditions de départ non réunies
+09-03-2023,Annecy,Valence Ville,13:47:00,13:42:00,10:43:00,5,Réutilisation d'un train
+09-03-2023,Lille Flandres,Dunkerque,19:03:00,18:48:00,17:40:00,15,Affluence de voyageurs entraînant un arrêt prolongé
+09-03-2023,Chambéry - Challes-les-Eaux,La Tour-du-Pin,18:03:00,17:58:00,16:32:00,5,Embouteillage
+10-03-2023,Saint-Nazaire,Nantes,08:26:00,08:21:00,07:34:00,5,Régulation du trafic
+09-03-2023,Courtrai,Lille Flandres,21:56:00,21:51:00,21:13:00,5,Incident sur un réseau ferré étranger
+10-03-2023,Lille Flandres,Paris Nord,08:19:00,08:14:00,07:12:00,5,Régulation du trafic
+09-03-2023,Lyon Part Dieu,Dijon Ville,18:34:00,18:19:00,16:18:00,15,Affluence de voyageurs entraînant un arrêt prolongé
+10-03-2023,Colomiers,Saint-Cyprien - Arènes,09:14:00,09:09:00,08:55:00,5,Présence d'un bagage abandonné
+10-03-2023,Troyes,Romilly-sur-Seine,08:38:00,08:28:00,07:08:00,10,Embouteillage
+09-03-2023,Toul,Allamps E.S.A.T,08:32:00,08:22:00,07:52:00,10,Embouteillage
+09-03-2023,Chambéry - Challes-les-Eaux,Grenoble,10:16:00,09:51:00,08:57:00,25,Défaillance de matériel
+09-03-2023,Bellegarde-sur-Valserine Gare,Évian-les-Bains,15:01:00,14:56:00,12:14:00,5,Embouteillage
+10-03-2023,Chambéry - Challes-les-Eaux,Bourg-Saint-Maurice,10:40:10,10:25:10,08:08:00,15,Embouteillage
+09-03-2023,Paris Nord,Saint-Quentin,16:18:00,16:13:00,14:34:00,5,Régulation du trafic
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,12:20:00,12:10:00,09:54:00,10,Conditions de départ non réunies
+10-03-2023,Béthune,Saint-Pol-sur-Ternoise,08:12:00,08:07:00,07:00:00,5,Difficultés lors de la préparation du train
+10-03-2023,Grenoble,Gap,11:12:00,11:07:00,08:10:00,5,Difficultés lors de la préparation du train
+09-03-2023,Lille Flandres,Paris Nord,08:54:00,08:44:00,07:42:00,10,Prise en charge de clients en correspondance
+09-03-2023,Niederbronn-les-Bains,Bitche,19:53:00,19:48:00,19:22:00,5,Embouteillage
+10-03-2023,Compiègne,Paris Nord,08:48:00,08:23:00,07:18:00,25,Régulation du trafic
+09-03-2023,Frasne,Neuchâtel,11:58:00,11:53:00,10:53:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris Austerlitz,Tours,20:01:30,19:41:30,17:38:00,20,Acte de vandalisme
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Grenoble,10:48:00,10:13:00,07:09:00,35,Travaux sur les voies
+09-03-2023,Laroche - Migennes,Paris - Gare de Lyon - Hall 1 & 2,14:18:00,14:13:00,12:10:00,5,Difficultés lors de la préparation du train
+09-03-2023,Grenoble - gare Routière,Lyon-Part-Dieu - Gare Routière,12:53:00,12:38:00,10:21:00,15,Embouteillage
+09-03-2023,Lille Flandres,Lens,08:50:00,08:45:00,07:47:00,5,Régulation du trafic
+09-03-2023,Nantes,Saint-Nazaire,08:04:00,07:24:00,06:38:00,40,Conditions de départ non réunies
+09-03-2023,Nantes,Paris - Montparnasse - Hall 1 & 2,09:17:30,09:12:30,07:05:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Nice,17:08:00,15:58:00,09:59:00,70,Travaux sur les voies
+09-03-2023,Brou,Chartres,16:33:00,16:28:00,15:49:30,5,Panne de signalisation
+09-03-2023,Lille Flandres,Tournai,20:41:00,20:36:00,20:08:00,5,Réutilisation d'un train
+09-03-2023,Tournai,Lille Flandres,12:02:00,11:52:00,11:22:00,10,Incident sur un réseau ferré étranger
+10-03-2023,Paris - Montparnasse - Hall 1 & 2,Bordeaux Saint-Jean,09:20:00,09:15:00,07:08:00,5,Grève SNCF inopinée
+09-03-2023,Lyon-Part-Dieu - Gare Routière,Bellegarde-sur-Valserine Gare,12:07:00,11:57:00,10:17:00,10,Embouteillage
+10-03-2023,Marseille - Saint-Charles,Paris - Gare de Lyon - Hall 1 & 2,12:28:00,12:23:00,09:04:00,5,Retard non expliqué
+10-03-2023,Toulouse Matabiau,Muret,08:25:00,08:20:00,08:01:00,5,Réutilisation d'un train
+09-03-2023,Lille Flandres,Tournai,20:41:00,20:36:00,20:08:00,5,Réutilisation d'un train
+09-03-2023,Les Sables-d'Olonne,Nantes,08:34:00,07:54:00,06:20:00,40,Dérangement d'une installation en gare
+09-03-2023,Capdenac,Aurillac,09:55:00,09:50:00,08:15:00,5,Embouteillage
+09-03-2023,Bayonne,Toulouse Matabiau,14:43:00,14:23:00,09:48:00,20,Embouteillage
+09-03-2023,Châlons-en-Champagne,Verdun,20:28:00,20:18:00,18:30:00,10,Embouteillage
+09-03-2023,Lunéville,Metz Ville,07:50:30,07:45:30,06:30:00,5,Réutilisation d'un train
+09-03-2023,Marseille - Saint-Charles,Marseille - Saint-Charles,08:06:00,07:41:00,07:41:00,25,Conditions de départ non réunies
+09-03-2023,Saarbrücken - Hauptbahnhof,Sarreguemines,08:45:00,08:40:00,08:10:00,5,Retard non expliqué
+09-03-2023,Troyes,Chaumont,15:15:00,15:10:00,13:25:00,5,Embouteillage
+09-03-2023,Paris Nord,Amiens,19:26:00,18:51:00,17:07:00,35,Réutilisation d'un train
+09-03-2023,Orléans,Vierzon,20:40:30,20:35:30,19:40:00,5,Réutilisation d'un train
+10-03-2023,Besançon-Viotte,Belfort-Ville,08:01:00,07:56:00,06:32:00,5,Obstacle sur la voie
+09-03-2023,Saint-Quentin,Compiègne,07:59:00,07:54:00,06:52:00,5,Régulation du trafic
+10-03-2023,Nantes,Orléans,10:29:00,10:24:00,07:13:00,5,Difficultés lors de la préparation du train
+09-03-2023,Amiens,Rouen Rive Droite,15:23:00,14:53:00,12:25:00,30,Prise en charge de clients en correspondance
+09-03-2023,Lille Flandres,Tournai,15:46:00,15:36:00,15:08:00,10,Défaillance de matériel
+09-03-2023,Clermont-Ferrand,Thiers,16:15:00,16:10:00,14:55:00,5,Embouteillage
+09-03-2023,Luxembourg (CFL),Nancy,09:42:00,09:02:00,07:09:00,40,Réutilisation d'un train
+09-03-2023,Toulouse Matabiau,Bayonne,14:17:00,14:12:00,09:37:00,5,Embouteillage
+09-03-2023,Toulon,Marseille - Saint-Charles,17:05:00,15:55:00,14:50:00,70,Régulation du trafic
+09-03-2023,Verdun,Metz Ville,13:02:00,12:57:00,10:37:00,5,Embouteillage
+09-03-2023,Remiremont,Bussang,09:00:00,08:55:00,08:00:00,5,Embouteillage
+09-03-2023,Beauvais - Gare SNCF,Paris Nord,14:02:00,13:57:00,12:40:00,5,Conditions de départ non réunies
+09-03-2023,Bordeaux Saint-Jean,Paris - Montparnasse - Hall 1 & 2,17:17:30,17:12:30,14:46:00,5,Assistance à un voyageur
+09-03-2023,Saarbrücken - Hauptbahnhof,Forbach,10:36:00,10:26:00,10:16:00,10,Incident sur un réseau ferré étranger
+10-03-2023,Chambéry - Challes-les-Eaux,Grenoble,09:56:00,09:51:00,08:57:00,5,Régulation du trafic
+09-03-2023,La Bresse - Place du Champtel,Remiremont,14:07:00,14:02:00,12:59:00,5,Embouteillage
+09-03-2023,Dole-Ville,Lons-le-Saunier,11:25:00,11:15:00,10:15:00,10,Prise en charge de clients en correspondance
+09-03-2023,Compiègne,Amiens,10:05:00,10:00:00,09:03:00,5,Conditions de départ non réunies
+09-03-2023,Toulouse Matabiau,Ax-les-Thermes,00:39:00,00:24:00,21:45:00,15,Embouteillage
+09-03-2023,Volvic,Clermont-Ferrand,20:08:00,20:03:00,19:24:00,5,Embouteillage
+10-03-2023,Aix-en-Provence,Marseille - Saint-Charles,07:12:00,07:07:00,06:23:00,5,Régulation du trafic
+09-03-2023,Brou,Chartres,18:20:00,18:15:00,17:28:00,5,Panne de signalisation
+10-03-2023,Chalon-sur-Saône,Montchanin,07:54:00,07:49:00,07:09:30,5,Difficultés lors de la préparation du train
+09-03-2023,Brive-la-Gaillarde,Limoges-Bénédictins,08:00:00,07:30:00,06:10:00,30,Difficultés lors de la préparation du train
+09-03-2023,Le Valdahon,Morteau,07:55:00,07:45:00,06:59:00,10,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Perpignan,12:26:00,11:56:00,06:49:00,30,Travaux sur les voies
+10-03-2023,Rumilly,Annecy,08:05:00,08:00:00,07:35:00,5,Embouteillage
+09-03-2023,Saint-Quentin,Compiègne,07:59:00,07:54:00,06:52:00,5,Régulation du trafic
+09-03-2023,Vierzon,Orléans,16:00:00,15:55:00,14:05:00,5,Embouteillage
+09-03-2023,Paris Nord,Laon,16:12:00,16:07:00,14:31:00,5,Travaux sur les voies
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,09:31:00,08:21:00,05:59:00,70,Travaux sur les voies
+10-03-2023,Angers-Saint-Laud,Le Mans,09:03:00,08:58:00,07:52:00,5,Régulation du trafic
+09-03-2023,Lyon Part Dieu,Annecy,10:27:00,10:07:00,08:08:00,20,Conditions de départ non réunies
+09-03-2023,Orléans,Vierzon,20:40:30,20:35:30,19:40:00,5,Réutilisation d'un train
+09-03-2023,Nantes,Saint-Nazaire,10:14:00,09:24:00,08:38:00,50,Réutilisation d'un train
+09-03-2023,Grenoble,Lyon Part Dieu,09:49:00,09:44:00,08:21:00,5,Difficultés lors de la préparation du train
+09-03-2023,Menton,Nice,09:42:00,09:27:00,08:51:00,15,Réutilisation d'un train
+09-03-2023,Troyes,Chaumont,15:15:00,15:10:00,13:25:00,5,Embouteillage
+10-03-2023,Chambéry - Challes-les-Eaux,Lyon Part Dieu,09:20:00,09:10:00,07:44:00,10,Prise en charge de clients en correspondance
+09-03-2023,Charleroi-Central,Maubeuge,13:25:00,13:20:00,12:24:00,5,Retard non expliqué
+09-03-2023,Grenoble,Lyon Part Dieu,09:49:00,09:44:00,08:21:00,5,Difficultés lors de la préparation du train
+09-03-2023,Tournai,Lille Flandres,20:07:00,19:52:00,19:23:00,15,Incident sur un réseau ferré étranger
+09-03-2023,Charleroi-Central,Maubeuge,13:25:00,13:20:00,12:24:00,5,Retard non expliqué
+10-03-2023,Marseille - Saint-Charles,Bordeaux Saint-Jean,15:43:00,15:38:00,09:27:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,09:31:00,08:21:00,05:59:00,70,Travaux sur les voies
+09-03-2023,Metz Ville,Nancy,23:12:30,21:32:30,20:35:00,100,Présence d'un bagage abandonné
+09-03-2023,Chambéry - Challes-les-Eaux,Bourg-Saint-Maurice,00:30:00,00:25:00,22:00:00,5,Embouteillage
+09-03-2023,Menton,Nice,09:42:00,09:27:00,08:51:00,15,Réutilisation d'un train
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lausanne,12:07:00,11:52:00,07:53:00,15,Assistance à un voyageur malade à bord
+09-03-2023,Amiens,Abbeville,15:47:00,15:42:00,15:08:00,5,Réutilisation d'un train
+09-03-2023,Valenciennes,Cambrai,07:41:00,07:36:00,06:53:00,5,Régulation du trafic
+09-03-2023,Strasbourg,Paris Est,21:28:00,21:23:00,16:19:00,5,Difficultés lors de la préparation du train
+10-03-2023,Nantes,Angers-Saint-Laud,09:17:00,09:12:00,08:17:00,5,Régulation du trafic
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,09:55:00,09:10:00,06:54:00,45,Travaux sur les voies
+09-03-2023,Saint-Nazaire,Nantes,11:02:00,10:52:00,10:15:00,10,Réutilisation d'un train
+09-03-2023,Lille Flandres,Hazebrouck,19:44:00,19:39:00,18:53:00,5,Travaux sur les voies
+09-03-2023,Bordeaux Saint-Jean,Nantes,18:20:00,18:05:00,13:53:00,15,Défaillance de matériel
+10-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,09:30:00,09:25:00,05:45:00,5,Travaux sur les voies
+09-03-2023,Hirson,Charleville-Mézières,09:13:00,09:03:00,08:03:00,10,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Zürich - Hauptbahnhof,11:46:00,11:26:00,07:15:00,20,Travaux sur les voies
+09-03-2023,Paris Austerlitz,Tours,20:46:30,20:41:30,18:37:00,5,Régulation du trafic
+09-03-2023,Laroche - Migennes,Paris-Bercy Bourgogne - Pays d'Auvergne,07:47:30,07:32:30,06:07:00,15,Difficultés lors de la préparation du train
+10-03-2023,Arcachon,Bordeaux Saint-Jean,09:05:00,08:25:00,07:35:00,40,Panne de signalisation
+10-03-2023,Frasne,Pontarlier,06:30:00,06:25:00,05:55:00,5,Embouteillage
+09-03-2023,Béthune,Saint-Pol-sur-Ternoise,08:12:00,08:07:00,07:00:00,5,Embouteillage
+09-03-2023,Strasbourg,Molsheim,12:52:00,12:42:00,12:18:00,10,Défaillance de matériel
+09-03-2023,Bâle - SBB,Strasbourg,09:44:00,09:39:00,08:21:00,5,Prise en charge de clients en correspondance
+09-03-2023,Saint-Quentin,Compiègne,19:09:00,18:54:00,17:52:00,15,Choc nécessitant une vérification technique sur le train
+09-03-2023,Marseille - Saint-Charles,Toulon,15:38:00,14:38:00,13:31:00,60,Présence d'individus sur les voies
+09-03-2023,Tournai,Lille Flandres,21:57:00,21:52:00,21:22:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Bâle - SBB,17:56:00,17:26:00,14:15:00,30,Travaux sur les voies
+10-03-2023,Genève - Cornavin - CFF,Annemasse,05:38:00,05:33:00,05:12:00,5,Incident sur un réseau ferré étranger
+10-03-2023,Saarbrücken - Hauptbahnhof,Forbach,05:01:00,04:56:00,04:46:00,5,Retard non expliqué
+09-03-2023,Valenciennes,Paris Nord,18:18:00,18:08:00,16:15:00,10,Défaillance de matériel
+10-03-2023,Saint-Dizier,Paris Est,09:03:00,08:53:00,06:33:00,10,Défaillance de matériel
+09-03-2023,Forbach,Saarbrücken - Hauptbahnhof,08:12:00,07:42:00,07:31:00,30,Conditions de départ non réunies
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Besançon-Viotte,09:49:00,09:19:00,06:45:00,30,Travaux sur les voies
+10-03-2023,Sérézin-du-Rhône,Communay - Stade,07:37:00,07:32:00,07:17:00,5,Embouteillage
+09-03-2023,Laon,Paris Nord,08:48:00,08:08:00,06:36:00,40,Obstacle sur la voie
+09-03-2023,Pontarlier,Les Granges Narboz,17:40:00,17:35:00,17:25:00,5,Embouteillage
+09-03-2023,Juvancourt,Vendeuvre,19:12:00,19:07:00,18:00:00,5,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,14:31:00,13:56:00,10:34:00,35,Réutilisation d'un train
+10-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Mulhouse-Ville,12:44:00,12:39:00,08:53:00,5,Retard non expliqué
+09-03-2023,Marseille - Saint-Charles,Paris - Gare de Lyon - Hall 1 & 2,18:38:00,18:33:00,15:02:00,5,Réutilisation d'un train
+09-03-2023,Metz Ville,Verdun,20:32:00,20:27:00,18:55:00,5,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,10:45:00,09:25:00,05:45:00,80,Travaux sur les voies
+10-03-2023,Tours,Orléans,08:34:00,08:29:00,07:01:00,5,Difficultés lors de la préparation du train
+10-03-2023,Lyon-Part-Dieu - Gare Routière,Grenoble Europole,12:02:00,11:47:00,09:45:00,15,Embouteillage
+10-03-2023,Laval,Le Mans,09:00:00,08:55:00,08:04:00,5,Difficultés lors de la préparation du train
+10-03-2023,Bourg-en-Bresse,Oyonnax,09:59:00,09:44:00,08:44:00,15,Difficultés lors de la préparation du train
+09-03-2023,Neustadt Weinstr Hbf,Wissembourg,10:33:00,10:28:00,09:36:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Valenciennes,Paris Nord,18:18:00,18:08:00,16:15:00,10,Défaillance de matériel
+09-03-2023,Laon,Paris Nord,08:48:00,08:08:00,06:36:00,40,Obstacle sur la voie
+10-03-2023,Saint-Dizier,Paris Est,09:03:00,08:53:00,06:33:00,10,Défaillance de matériel
+10-03-2023,Sérézin-du-Rhône,Communay - Stade,07:37:00,07:32:00,07:17:00,5,Embouteillage
+10-03-2023,Laval,Le Mans,09:00:00,08:55:00,08:04:00,5,Difficultés lors de la préparation du train
+09-03-2023,Forbach,Saarbrücken - Hauptbahnhof,08:12:00,07:42:00,07:31:00,30,Conditions de départ non réunies
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Besançon-Viotte,09:49:00,09:19:00,06:45:00,30,Travaux sur les voies
+10-03-2023,Tours,Orléans,08:34:00,08:29:00,07:01:00,5,Difficultés lors de la préparation du train
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,10:45:00,09:25:00,05:45:00,80,Travaux sur les voies
+09-03-2023,Juvancourt,Vendeuvre,19:12:00,19:07:00,18:00:00,5,Embouteillage
+10-03-2023,Bourg-en-Bresse,Oyonnax,09:59:00,09:44:00,08:44:00,15,Difficultés lors de la préparation du train
+09-03-2023,Metz Ville,Verdun,20:32:00,20:27:00,18:55:00,5,Embouteillage
+09-03-2023,Pontarlier,Les Granges Narboz,17:40:00,17:35:00,17:25:00,5,Embouteillage
+09-03-2023,Strasbourg,Haguenau,16:52:00,16:47:00,16:10:00,5,Défaillance de matériel
+10-03-2023,Nantes,Le Croisic,09:36:00,09:21:00,08:10:00,15,Réutilisation d'un train
+09-03-2023,Maubeuge,Charleroi-Central,20:53:00,20:48:00,19:53:00,5,Retard non expliqué
+10-03-2023,Hyères,Marseille - Saint-Charles,08:03:00,07:58:00,06:33:00,5,Défaillance de matériel
+09-03-2023,Amiens,Laon,20:25:00,20:00:00,18:25:00,25,Régulation du trafic
+09-03-2023,La Bresse - Place du Champtel,Remiremont,07:06:00,07:01:00,05:58:00,5,Embouteillage
+09-03-2023,Clamecy,Auxerre-Saint-Gervais,06:35:00,06:25:00,05:09:00,10,Embouteillage
+10-03-2023,Le Mans,Tours,08:02:00,07:32:00,06:20:00,30,Travaux sur les voies
+09-03-2023,Paris - Montparnasse - Hall 1 & 2,Bordeaux Saint-Jean,18:54:00,18:44:00,16:03:00,10,Travaux sur les voies
+09-03-2023,Dunkerque,Lille Flandres,22:00:00,20:20:00,19:12:00,100,Acte de vandalisme
+09-03-2023,Lyon-Part-Dieu - Gare Routière,Bellegarde-sur-Valserine Gare,12:07:00,11:57:00,10:17:00,10,Embouteillage
+09-03-2023,Avignon Centre,Cavaillon,09:20:00,09:15:00,07:55:00,5,Embouteillage
+09-03-2023,Lyon Gorge de Loup,Lozanne,09:13:00,09:03:00,08:21:00,10,Embouteillage
+10-03-2023,Zürich - Hauptbahnhof,Paris - Gare de Lyon - Hall 1 & 2,11:49:00,11:44:00,07:34:00,5,Retard non expliqué
+09-03-2023,Colmar,Metzeral,08:35:00,08:25:00,07:47:00,10,Réutilisation d'un train
+10-03-2023,Tours,Le Mans,09:21:00,08:56:00,07:52:00,25,Réutilisation d'un train
+10-03-2023,Luxembourg (CFL),Metz Ville,06:19:30,06:14:30,05:16:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Orléans,Tours,22:08:00,22:03:00,20:41:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lausanne,21:47:00,21:37:00,17:47:00,10,Assistance à un voyageur malade à bord
+09-03-2023,Mâcon,Bourg-en-Bresse - Gare Routière,16:11:10,16:06:10,15:04:00,5,Embouteillage
+09-03-2023,Metz Ville,Saarbrücken - Hauptbahnhof,09:45:00,09:40:00,08:38:00,5,Réutilisation d'un train
+09-03-2023,Nantes,Ancenis,08:22:00,08:17:00,07:48:00,5,Régulation du trafic
+09-03-2023,Frankfurt am Main - Hauptbahnhof,Paris Est,09:58:00,09:53:00,05:47:00,5,Retard non expliqué
+10-03-2023,Grenoble - gare Routière,Chambéry - Challes-les-Eaux,11:59:00,11:49:00,09:50:00,10,Prise en charge de clients en correspondance
+09-03-2023,Paris Nord,Boulogne-Ville,09:25:30,09:15:30,06:52:00,10,Travaux sur les voies
+09-03-2023,Lille Flandres,Tournai,13:57:00,12:37:00,12:08:00,80,Conditions de départ non réunies
+10-03-2023,Laroche - Migennes,Paris - Gare de Lyon - Hall 1 & 2,07:53:00,07:48:00,05:51:00,5,Régulation du trafic
+09-03-2023,Arcachon,Bordeaux Saint-Jean,10:40:00,10:25:00,09:35:00,15,Réutilisation d'un train
+09-03-2023,Bâle - SBB,Mulhouse-Ville,00:38:00,00:33:00,23:38:00,5,Embouteillage
+09-03-2023,Toulon,Marseille - Saint-Charles,17:05:00,15:55:00,14:50:00,70,Régulation du trafic
+10-03-2023,Laroche - Migennes,Paris - Gare de Lyon - Hall 1 & 2,07:53:00,07:48:00,05:51:00,5,Régulation du trafic
+09-03-2023,Lille Flandres,Tournai,13:57:00,12:37:00,12:08:00,80,Conditions de départ non réunies
+10-03-2023,Nantes,Le Mans,08:00:00,07:55:00,06:09:00,5,Difficultés lors de la préparation du train
+09-03-2023,Bâle - SBB,Mulhouse-Ville,00:38:00,00:33:00,23:38:00,5,Embouteillage
+10-03-2023,Frankfurt am Main - Hauptbahnhof,Paris Est,09:58:00,09:53:00,05:47:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Douai,Valenciennes,21:48:00,21:13:00,19:24:00,35,Embouteillage
+10-03-2023,Orléans,Paris Austerlitz,07:11:00,07:06:00,06:03:00,5,Difficultés lors de la préparation du train
+09-03-2023,Strasbourg,Molsheim,19:47:00,19:42:00,19:18:00,5,Réutilisation d'un train
+09-03-2023,Saint-André-le-Gaz,Grenoble,10:11:00,10:06:00,09:10:00,5,Régulation du trafic
+09-03-2023,Nantes,La Rochelle,21:45:00,21:40:00,19:35:00,5,Réutilisation d'un train
+09-03-2023,Metz Ville,Nancy,15:45:00,15:40:00,14:58:00,5,Travaux sur les voies
+09-03-2023,Bar-le-Duc,Toul,11:16:00,10:31:00,09:14:00,45,Embouteillage
+09-03-2023,Luxembourg (CFL),Longwy,17:14:00,17:09:00,16:34:00,5,Incident sur un réseau ferré étranger
+09-03-2023,La Bresse - Place du Champtel,Remiremont,18:55:00,18:50:00,17:47:00,5,Embouteillage
+09-03-2023,Annecy,Chambéry - Challes-les-Eaux,19:05:00,19:00:00,18:00:00,5,Embouteillage
+09-03-2023,Belfort-Ville,Vesoul,08:31:00,08:21:00,07:35:00,10,Réutilisation d'un train
+09-03-2023,Dunkerque,Calais Ville,08:01:00,07:46:00,07:03:00,15,Indisponibilité d'un matériel
+09-03-2023,Chambéry - Challes-les-Eaux,Bourg-Saint-Maurice,21:26:00,21:21:00,18:35:00,5,Embouteillage
+09-03-2023,Tournai,Lille Flandres,14:02:00,13:52:00,13:22:00,10,Incident sur un réseau ferré étranger
+09-03-2023,Douai,Valenciennes,21:48:00,21:13:00,19:24:00,35,Embouteillage
+09-03-2023,Saint-André-le-Gaz,Grenoble,10:11:00,10:06:00,09:10:00,5,Régulation du trafic
+09-03-2023,Grenoble - gare Routière,Chambéry - Challes-les-Eaux,12:04:00,11:49:00,09:50:00,15,Embouteillage
+09-03-2023,Vierzon,Limoges-Bénédictins,13:10:00,12:55:00,10:44:00,15,Mise à quai tardive en gare origine
+09-03-2023,Bourg-en-Bresse - Gare Routière,Mâcon,18:43:00,18:38:00,17:55:00,5,Embouteillage
+09-03-2023,Calais Ville,Lille Flandres,08:22:00,07:47:00,06:31:00,35,Réutilisation d'un train
+09-03-2023,Sain-Bel,Lyon - Saint-Paul,15:51:00,15:46:00,15:04:00,5,Retard non expliqué
+10-03-2023,Remiremont,La Bresse - Claudel,11:03:00,10:58:00,10:01:00,5,Embouteillage
+09-03-2023,Marseille - Saint-Charles,Aix-en-Provence,14:59:00,14:39:00,13:53:00,20,Présence d'individus sur les voies
+09-03-2023,Belfort-Ville,Vesoul,08:31:00,08:21:00,07:35:00,10,Réutilisation d'un train
+09-03-2023,Paris Nord,Compiègne,17:10:00,16:50:00,15:37:00,20,Réutilisation d'un train
+09-03-2023,Chambéry - Challes-les-Eaux,Bourg-Saint-Maurice,21:26:00,21:21:00,18:35:00,5,Embouteillage
+09-03-2023,Molsheim,Strasbourg,13:17:00,13:12:00,12:48:00,5,Réutilisation d'un train
+10-03-2023,Strasbourg,Haguenau,07:26:00,07:21:00,06:44:00,5,Difficultés lors de la préparation du train
+09-03-2023,Strasbourg,Bâle - SBB,09:13:00,09:08:00,07:51:00,5,Prise en charge de clients en correspondance
+10-03-2023,Guingamp,Carhaix,09:02:00,08:57:00,07:51:00,5,Conditions météorologiques
+09-03-2023,Romilly-sur-Seine,Troyes,08:55:00,08:40:00,07:20:00,15,Embouteillage
+09-03-2023,Valenciennes,Jeumont,08:44:00,08:39:00,07:51:00,5,Réutilisation d'un train
+09-03-2023,Saint-Florentin - Vergigny,Troyes,18:02:00,17:57:00,16:38:00,5,Embouteillage
+09-03-2023,Metzeral,Colmar,09:20:00,09:15:00,08:39:00,5,Réutilisation d'un train
+09-03-2023,Boulogne-Ville,Paris Nord,14:37:00,14:32:00,11:51:00,5,Travaux sur les voies
+09-03-2023,Bordeaux Saint-Jean,Saint-Mariens - Saint-Yzan,15:02:00,14:52:00,14:08:00,10,Régulation du trafic
+09-03-2023,Lille Flandres,Hazebrouck,13:14:00,13:09:00,12:23:00,5,Réutilisation d'un train
+09-03-2023,Toul,Neufchâteau,18:32:00,18:27:00,17:37:00,5,Embouteillage
+09-03-2023,Avignon Centre,Miramas,13:45:00,13:40:00,11:10:00,5,Embouteillage
+09-03-2023,Sedan Place Calonne,La Ferté-sur-Chiers,08:50:00,08:30:00,07:31:00,20,Embouteillage
+09-03-2023,Igney Centre,Sarrebourg,18:41:00,18:36:00,17:57:00,5,Embouteillage
+10-03-2023,Belfort-Ville,Mulhouse-Ville,08:26:00,08:11:00,07:34:00,15,Prise en charge de clients en correspondance
+09-03-2023,Nantes,Le Mans,09:20:00,09:15:00,07:39:00,5,Difficultés lors de la préparation du train
+09-03-2023,Frasne,Pontarlier,06:30:00,06:25:00,05:55:00,5,Embouteillage
+09-03-2023,Strasbourg,Bâle - SBB,18:13:00,18:08:00,16:51:00,5,Régulation du trafic
+09-03-2023,Lille Flandres,Tournai,13:41:00,13:36:00,13:08:00,5,Réutilisation d'un train
+09-03-2023,La Bresse - Place du Champtel,Remiremont,17:55:00,17:50:00,16:47:00,5,Embouteillage
+09-03-2023,Marseille - Saint-Charles,Marseille Blancarde,17:22:30,17:12:30,17:08:00,10,Réutilisation d'un train
+09-03-2023,Autun,Étang,16:52:00,16:47:00,16:26:00,5,Embouteillage
+09-03-2023,Dunkerque,Calais Ville,09:41:00,09:26:00,08:05:00,15,Embouteillage
+09-03-2023,Le Mans,Tours,13:49:00,13:44:00,12:44:00,5,Défaillance de matériel
+09-03-2023,Toulouse Matabiau,Montauban Ville Bourbon,07:18:00,07:13:00,06:28:00,5,Difficultés lors de la préparation du train
+09-03-2023,Is-sur-Tille,Les Laumes - Alésia,08:26:00,08:21:00,07:04:00,5,Réutilisation d'un train
+09-03-2023,Poitiers,Limoges-Bénédictins,10:52:30,10:47:30,08:51:00,5,Difficultés lors de la préparation du train
+10-03-2023,Aurillac,Capdenac,08:09:00,08:04:00,06:29:00,5,Embouteillage
+09-03-2023,Marseille - Saint-Charles,Aix-en-Provence,09:19:00,09:09:00,08:23:00,10,Défaillance de matériel
+09-03-2023,Luxembourg (CFL),Metz Ville,17:26:30,16:51:30,15:58:00,35,Présence d'individus sur les voies
+09-03-2023,Metz Ville,Luxembourg (CFL),18:52:00,17:52:00,17:00:00,60,Incident de circulation
+09-03-2023,Boën,Saint-Etienne-Châteaucreux Gare Routière,17:25:00,17:20:00,15:54:00,5,Embouteillage
+09-03-2023,Saumur,Angers-Saint-Laud,07:51:30,07:36:30,07:00:00,15,Régulation du trafic
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,11:16:00,10:56:00,07:34:00,20,Travaux sur les voies
+09-03-2023,Tournai,Lille Flandres,13:10:00,12:55:00,12:22:00,15,Incident sur un réseau ferré étranger
+09-03-2023,Bordeaux Saint-Jean,Mont-de-Marsan,12:19:30,12:14:30,10:45:00,5,Défaillance de matériel
+09-03-2023,Bâle - SBB,Strasbourg,20:14:00,20:09:00,18:51:00,5,Réutilisation d'un train
+09-03-2023,Nancy,Pont-Saint-Vincent,08:26:00,08:16:00,07:51:00,10,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,10:06:00,09:36:00,07:19:00,30,Travaux sur les voies
+10-03-2023,Chalon-sur-Saône,Dijon Ville,08:12:00,08:07:00,07:14:30,5,Régulation du trafic
+09-03-2023,Lyon Part Dieu,Chambéry - Challes-les-Eaux,09:41:30,09:16:30,07:50:00,25,Mise à quai tardive en gare origine
+09-03-2023,Paris Nord,Saint-Quentin,08:18:00,08:13:00,06:37:00,5,Travaux sur les voies
+09-03-2023,Carhaix,Guingamp,10:22:00,10:12:00,09:07:00,10,Dérangement d'une installation en gare
+09-03-2023,Lille Flandres,Calais Ville,09:48:00,09:28:00,08:13:00,20,Réutilisation d'un train
+09-03-2023,Lille Flandres,Tournai,11:21:00,10:36:00,10:08:00,45,Réutilisation d'un train
+09-03-2023,Ventimiglia - Stazione,Cannes,21:42:30,21:22:30,19:46:00,20,Intervention des forces de l'ordre
+10-03-2023,Orléans,Tours,10:05:00,10:00:00,08:39:00,5,Difficultés lors de la préparation du train
+09-03-2023,Sarreguemines Lycée Technique,Loupershouse,17:54:00,17:49:00,17:10:00,5,Embouteillage
+09-03-2023,Paris Nord,Laon,10:35:30,10:05:30,08:34:00,30,Réutilisation d'un train
+09-03-2023,Montauban Ville Bourbon,Toulouse Matabiau,08:42:00,08:27:00,07:42:00,15,Prise en charge de clients en correspondance
+09-03-2023,Hazebrouck,Lille Flandres,14:22:00,14:07:00,13:21:00,15,Incident de circulation
+09-03-2023,Metz Ville,Forbach,19:14:00,19:04:00,18:13:00,10,Difficultés lors de la préparation du train
+09-03-2023,Niederbronn-les-Bains,Bitche,09:57:00,09:52:00,09:26:00,5,Embouteillage
+10-03-2023,Nancy,Metz Ville,09:37:00,09:32:00,08:51:00,5,Prise en charge de clients en correspondance
+09-03-2023,Molsheim,Strasbourg,09:27:00,09:12:00,08:48:00,15,Régulation du trafic
+10-03-2023,Belfort-Ville,Mulhouse-Ville,09:49:00,09:39:00,09:06:00,10,Réutilisation d'un train
+10-03-2023,Cholet,Angers-Saint-Laud,10:10:30,09:35:30,08:49:00,35,Régulation du trafic
+09-03-2023,Annemasse,Annecy,10:57:00,10:52:00,09:20:00,5,Embouteillage
+09-03-2023,Dijon Ville,Dijon Ville,18:36:00,18:31:00,18:31:00,5,Prise en charge de clients en correspondance
+10-03-2023,Paris-Bercy Bourgogne - Pays d'Auvergne,Nevers,13:18:00,11:38:00,09:11:00,100,Conditions de départ non réunies
+10-03-2023,Tours,Saumur,06:59:00,06:54:00,06:15:00,5,Retard non expliqué
+09-03-2023,Luxembourg (CFL),Thionville,18:02:00,17:57:00,17:28:00,5,Régulation du trafic
+09-03-2023,Maubeuge,Charleroi-Central,18:53:00,18:48:00,17:43:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Paris Est,Reims,19:19:00,19:14:00,18:28:00,5,Présence d'individus sur les voies
+09-03-2023,Metz Ville,Verdun,19:40:30,19:35:30,18:21:00,5,Régulation du trafic
+09-03-2023,Buswiller-Eglise,Mommenheim,18:09:00,18:04:00,17:46:00,5,Embouteillage
+10-03-2023,Laroche - Migennes,Paris-Bercy Bourgogne - Pays d'Auvergne,07:37:30,07:32:30,06:07:00,5,Régulation du trafic
+10-03-2023,Nantes,Strasbourg,13:17:00,13:12:00,08:09:00,5,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Montpellier Saint-Roch,11:34:00,11:14:00,07:39:00,20,Travaux sur les voies
+09-03-2023,Saint-Etienne-Châteaucreux Gare Routière,Thiers,17:12:00,17:07:00,14:50:00,5,Embouteillage
+09-03-2023,Lyon Part Dieu,Chambéry - Challes-les-Eaux,11:24:30,11:19:30,09:50:00,5,Prise en charge de clients en correspondance
+10-03-2023,Grenoble,Lyon Part Dieu,10:25:00,10:15:00,08:51:00,10,Difficultés lors de la préparation du train
+09-03-2023,Clisson,Nantes,06:55:00,06:20:00,05:53:00,35,Grève SNCF inopinée
+09-03-2023,Paris Saint-Lazare,Rouen Rive Droite,19:28:30,19:23:30,17:49:00,5,Régulation du trafic
+10-03-2023,Rennes,Vannes,09:05:00,09:01:00,07:40:00,4,Difficultés lors de la préparation du train
+09-03-2023,Paris Est,Frankfurt am Main - Hauptbahnhof,00:32:00,23:32:00,19:07:00,60,Assistance à un voyageur malade à bord
+10-03-2023,Nancy,Metz Ville,09:37:00,09:32:00,08:51:00,5,Prise en charge de clients en correspondance
+09-03-2023,Maubeuge,Charleroi-Central,18:53:00,18:48:00,17:43:00,5,Incident sur un réseau ferré étranger
+10-03-2023,Nevers,Tours,08:39:00,07:49:00,05:23:00,50,Conditions de départ non réunies
+09-03-2023,Paris Est,Reims,19:19:00,19:14:00,18:28:00,5,Présence d'individus sur les voies
+09-03-2023,Clisson,Nantes,06:55:00,06:20:00,05:53:00,35,Grève SNCF inopinée
+09-03-2023,Metz Ville,Verdun,19:40:30,19:35:30,18:21:00,5,Régulation du trafic
+09-03-2023,Molsheim,Strasbourg,09:27:00,09:12:00,08:48:00,15,Régulation du trafic
+09-03-2023,Annemasse,Annecy,10:57:00,10:52:00,09:20:00,5,Embouteillage
+10-03-2023,Belfort-Ville,Mulhouse-Ville,09:49:00,09:39:00,09:06:00,10,Réutilisation d'un train
+10-03-2023,Cholet,Angers-Saint-Laud,10:10:30,09:35:30,08:49:00,35,Régulation du trafic
+10-03-2023,Rennes,Vannes,09:05:00,09:01:00,07:40:00,4,Difficultés lors de la préparation du train
+09-03-2023,Ventimiglia - Stazione,Saint-Laurent-du-Var,19:44:00,19:24:00,18:16:00,20,Réutilisation d'un train
+09-03-2023,Verdun,Metz Ville,13:02:00,12:57:00,10:37:00,5,Embouteillage
+09-03-2023,Pontarlier,Frasne,16:26:30,16:16:30,16:06:00,10,Conditions de départ non réunies
+10-03-2023,Châlons-en-Champagne,Verdun,10:13:00,10:08:00,08:20:00,5,Embouteillage
+10-03-2023,Nantes,Savenay,09:00:30,08:55:30,08:23:00,5,Régulation du trafic
+09-03-2023,Luxembourg (CFL),Nancy,09:42:00,09:02:00,07:09:00,40,Réutilisation d'un train
+10-03-2023,Metz Ville,Verdun,07:21:00,07:16:00,05:55:00,5,Retard non expliqué
+09-03-2023,Toulouse Matabiau,Bayonne,14:17:00,14:12:00,09:37:00,5,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Zürich - Hauptbahnhof,16:31:00,16:26:00,12:19:00,5,Travaux sur les voies
+10-03-2023,Vendôme,Tours,07:34:00,07:24:00,06:24:00,10,Défaillance de matériel
+09-03-2023,Charleroi-Central,Maubeuge,19:26:00,19:21:00,18:24:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Remiremont,Bussang,09:00:00,08:55:00,08:00:00,5,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Grenoble,10:48:00,10:13:00,07:09:00,35,Travaux sur les voies
+09-03-2023,Toulouse Matabiau,Ax-les-Thermes,00:39:00,00:24:00,21:45:00,15,Embouteillage
+09-03-2023,Annecy,Chambéry - Challes-les-Eaux,22:13:00,22:08:00,20:38:00,5,Embouteillage
+09-03-2023,Limoges-Bénédictins,Poitiers,08:13:00,07:58:00,06:02:00,15,Obstacle sur la voie
+09-03-2023,Forbach,Saarbrücken - Hauptbahnhof,10:47:00,10:42:00,10:31:00,5,Réutilisation d'un train
+09-03-2023,Metz Ville,Nancy,19:10:30,18:35:30,17:39:00,35,Prise en charge de clients en correspondance
+09-03-2023,Tournai,Lille Flandres,18:12:00,17:52:00,17:23:00,20,Incident ferroviaire
+09-03-2023,Lille Flandres,Béthune,07:17:00,07:12:00,06:15:00,5,Réutilisation d'un train
+09-03-2023,Molsheim,Strasbourg,14:22:00,14:12:00,13:48:00,10,Réutilisation d'un train
+09-03-2023,Marcelcave,Guillaucourt,18:13:00,17:58:00,17:51:00,15,Embouteillage
+09-03-2023,Grasse,Ventimiglia - Stazione,10:17:00,10:12:00,08:08:00,5,Affluence de voyageurs entraînant un arrêt prolongé
+09-03-2023,Charleville-Mézières,Givet,08:59:00,08:39:00,07:35:00,20,Réutilisation d'un train
+10-03-2023,Quillan,Limoux,06:30:00,06:25:00,05:42:00,5,Embouteillage
+09-03-2023,Rouen Rive Droite,Caen,11:57:00,11:47:00,10:07:00,10,Embouteillage
+09-03-2023,Paris Austerlitz,Orléans,14:35:00,14:30:00,12:54:00,5,Difficultés lors de la préparation du train
+09-03-2023,Stuttgart Hbf,Paris Est,22:21:00,22:06:00,18:52:00,15,Incident sur un réseau ferré étranger
+09-03-2023,Angers-Saint-Laud,Nantes,08:56:00,08:41:00,07:47:00,15,Réutilisation d'un train
+09-03-2023,Béthune,Lille Flandres,07:54:00,07:44:00,06:49:00,10,Défaillance de matériel
+09-03-2023,Tours,Le Mans,10:06:00,08:56:00,07:52:00,70,Réutilisation d'un train
+09-03-2023,Coppet,Annecy,09:21:00,09:16:00,07:19:00,5,Incident sur un réseau ferré étranger
+10-03-2023,Charleville-Mézières,Givet,07:44:00,07:39:00,06:35:00,5,Prise en charge de clients en correspondance
+09-03-2023,Lichtenberg Église,Ingwiller,16:48:00,16:43:00,16:33:00,5,Embouteillage
+09-03-2023,Compiègne,Saint-Quentin,20:13:00,20:08:00,19:04:00,5,Réutilisation d'un train
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Besançon-Viotte,20:07:00,19:27:00,16:43:00,40,Travaux sur les voies
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,14:46:00,14:36:00,12:23:00,10,Incident de circulation
+10-03-2023,Reims,Épernay,06:43:00,06:23:00,05:48:00,20,Difficultés lors de la préparation du train
+09-03-2023,Vichy,Montluçon - ville,22:13:00,21:58:00,20:10:00,15,Prise en charge de clients en correspondance
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Zürich - Hauptbahnhof,11:46:00,11:26:00,07:15:00,20,Travaux sur les voies
+09-03-2023,Laroche - Migennes,Paris-Bercy Bourgogne - Pays d'Auvergne,07:47:30,07:32:30,06:07:00,15,Difficultés lors de la préparation du train
+09-03-2023,Béthune,Saint-Pol-sur-Ternoise,08:12:00,08:07:00,07:00:00,5,Embouteillage
+09-03-2023,Bordeaux Saint-Jean,Nantes,18:20:00,18:05:00,13:53:00,15,Défaillance de matériel
+10-03-2023,Genève - Cornavin - CFF,Annemasse,05:38:00,05:33:00,05:12:00,5,Incident sur un réseau ferré étranger
+10-03-2023,Saarbrücken - Hauptbahnhof,Forbach,05:01:00,04:56:00,04:46:00,5,Retard non expliqué
+09-03-2023,Bâle - SBB,Strasbourg,09:44:00,09:39:00,08:21:00,5,Prise en charge de clients en correspondance
+09-03-2023,Strasbourg,Molsheim,12:52:00,12:42:00,12:18:00,10,Défaillance de matériel
+10-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Marseille - Saint-Charles,09:30:00,09:25:00,05:45:00,5,Travaux sur les voies
+09-03-2023,Hirson,Charleville-Mézières,09:13:00,09:03:00,08:03:00,10,Embouteillage
+09-03-2023,Paris Nord,Amiens,10:47:00,10:42:00,09:07:00,5,Régulation du trafic
+09-03-2023,Tournai,Lille Flandres,21:57:00,21:52:00,21:22:00,5,Incident sur un réseau ferré étranger
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Bâle - SBB,17:56:00,17:26:00,14:15:00,30,Travaux sur les voies
+09-03-2023,Marseille - Saint-Charles,Toulon,15:38:00,14:38:00,13:31:00,60,Présence d'individus sur les voies
+10-03-2023,Arcachon,Bordeaux Saint-Jean,09:05:00,08:25:00,07:35:00,40,Panne de signalisation
+09-03-2023,Lyon Part Dieu,Nice,13:03:00,12:58:00,08:06:00,5,Prise en charge de clients en correspondance
+10-03-2023,Mulhouse-Ville,Belfort-Ville,09:02:00,08:57:00,08:23:00,5,Réutilisation d'un train
+10-03-2023,Pornic,Nantes,08:21:00,08:16:00,07:16:00,5,Obstacle sur la voie
+09-03-2023,Saint-Quentin,Lille Flandres,08:42:00,08:37:00,06:50:00,5,Régulation du trafic
+09-03-2023,Chantonnay,La Roche-sur-Yon,19:04:00,18:54:00,18:23:00,10,Réutilisation d'un train
+10-03-2023,Orléans,Tours,07:27:00,07:22:00,05:58:00,5,Difficultés lors de la préparation du train
+09-03-2023,Avignon Centre,Marseille - Saint-Charles,17:23:00,17:18:00,15:53:00,5,Saturation des voies en gare
+10-03-2023,Aix-les-Bains - Le Revard,Chambéry - Challes-les-Eaux,07:16:00,07:11:00,06:41:00,5,Embouteillage
+09-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Lyon Perrache,09:46:00,08:36:00,06:24:00,70,Travaux sur les voies
+09-03-2023,Belfort-Ville,Mulhouse-Ville,08:16:00,08:11:00,07:34:00,5,Prise en charge de clients en correspondance
+10-03-2023,Reims,Châlons-en-Champagne,08:56:00,08:51:00,08:09:00,5,Réutilisation d'un train
+09-03-2023,Paris - Montparnasse - Hall 1 & 2,Bordeaux Saint-Jean,18:54:00,18:44:00,16:03:00,10,Travaux sur les voies
+09-03-2023,Chambéry - Challes-les-Eaux,Grenoble - gare Routière,11:50:00,11:40:00,10:30:00,10,Embouteillage
+09-03-2023,Dunkerque,Lille Flandres,22:00:00,20:20:00,19:12:00,100,Acte de vandalisme
+09-03-2023,Forbach,Metz Ville,08:26:00,07:56:00,07:07:00,30,Défaillance de matériel
+09-03-2023,Clamecy,Auxerre-Saint-Gervais,06:35:00,06:25:00,05:09:00,10,Embouteillage
+09-03-2023,Amiens,Laon,20:25:00,20:00:00,18:25:00,25,Régulation du trafic
+10-03-2023,Le Mans,Tours,08:02:00,07:32:00,06:20:00,30,Travaux sur les voies
+10-03-2023,Hyères,Marseille - Saint-Charles,08:03:00,07:58:00,06:33:00,5,Défaillance de matériel
+09-03-2023,Lyon-Part-Dieu - Gare Routière,Bellegarde-sur-Valserine Gare,12:07:00,11:57:00,10:17:00,10,Embouteillage
+09-03-2023,La Bresse - Place du Champtel,Remiremont,07:06:00,07:01:00,05:58:00,5,Embouteillage
+10-03-2023,Nantes,Le Croisic,09:36:00,09:21:00,08:10:00,15,Réutilisation d'un train
+09-03-2023,Avignon Centre,Cavaillon,09:20:00,09:15:00,07:55:00,5,Embouteillage
+09-03-2023,Lyon Gorge de Loup,Lozanne,09:13:00,09:03:00,08:21:00,10,Embouteillage
+10-03-2023,Zürich - Hauptbahnhof,Paris - Gare de Lyon - Hall 1 & 2,11:49:00,11:44:00,07:34:00,5,Retard non expliqué
+09-03-2023,Maubeuge,Charleroi-Central,20:53:00,20:48:00,19:53:00,5,Retard non expliqué
+09-03-2023,Forbach,Metz Ville,11:25:00,11:20:00,10:33:00,5,Prise en charge de clients en correspondance
+10-03-2023,Nantes,Châteaubriant - Tram Train,11:22:00,11:17:00,10:10:00,5,Conditions de départ non réunies
+09-03-2023,Paris Nord,Saint-Quentin,20:18:00,20:13:00,18:34:00,5,Affluence de voyageurs entraînant un arrêt prolongé
+10-03-2023,Paris Nord,Laon,10:10:30,10:05:30,08:34:00,5,Travaux sur les voies
+09-03-2023,Verdun,Châlons-en-Champagne,17:02:00,16:57:00,15:09:00,5,Embouteillage
+09-03-2023,Forbach,Metz Ville,11:25:00,11:20:00,10:33:00,5,Prise en charge de clients en correspondance
+10-03-2023,Amiens,Serqueux,11:35:00,11:05:00,09:30:00,30,Prise en charge de clients en correspondance
+10-03-2023,Tours,Le Mans,09:21:00,08:56:00,07:52:00,25,Réutilisation d'un train
+09-03-2023,Nantes,Les Sables-d'Olonne,18:05:00,18:00:00,16:35:00,5,Réutilisation d'un train
+10-03-2023,Paris - Gare de Lyon - Hall 1 & 2,Montpellier Sud de France,10:33:00,10:08:00,06:49:00,25,Défaillance de matériel
+09-03-2023,Laroche - Migennes,Paris-Bercy Bourgogne - Pays d'Auvergne,17:42:00,17:27:00,16:03:00,15,Prise en charge de clients en correspondance
+09-03-2023,Montauban Ville Bourbon,Toulouse Matabiau,09:37:00,09:32:00,08:47:00,5,Réutilisation d'un train
+10-03-2023,Annecy,Annemasse,07:15:00,07:10:00,06:10:00,5,Embouteillage
+09-03-2023,Mannheim - Hauptbahnhof,Paris Est,21:03:00,20:43:00,17:38:00,20,Difficultés lors de la préparation du train
+09-03-2023,Avignon Centre,Marseille - Saint-Charles,17:23:00,17:18:00,15:53:00,5,Saturation des voies en gare
+10-03-2023,Pornic,Nantes,08:21:00,08:16:00,07:16:00,5,Obstacle sur la voie
+09-03-2023,Marseille - Saint-Charles,Bordeaux Saint-Jean,17:38:00,17:33:00,11:24:00,5,Prise en charge de clients en correspondance
+09-03-2023,Saint-Quentin,Lille Flandres,08:42:00,08:37:00,06:50:00,5,Régulation du trafic
+09-03-2023,Paris Est,Strasbourg,19:05:00,19:00:00,16:16:00,5,Retard non expliqué
+09-03-2023,Marseille - Saint-Charles,Les Arcs - Draguignan,11:27:30,11:22:30,09:57:00,5,Travaux sur les voies
+09-03-2023,Sain-Bel,Lyon-Saint-Paul - La Feuillée,23:05:10,23:00:10,22:00:00,5,Embouteillage
+09-03-2023,Belfort-Ville,Mulhouse-Ville,08:16:00,08:11:00,07:34:00,5,Prise en charge de clients en correspondance
+10-03-2023,Reims,Châlons-en-Champagne,08:56:00,08:51:00,08:09:00,5,Réutilisation d'un train
+10-03-2023,Mulhouse-Ville,Belfort-Ville,09:02:00,08:57:00,08:23:00,5,Réutilisation d'un train
+09-03-2023,Chantonnay,La Roche-sur-Yon,19:04:00,18:54:00,18:23:00,10,Réutilisation d'un train
+10-03-2023,Orléans,Tours,07:27:00,07:22:00,05:58:00,5,Difficultés lors de la préparation du train
+10-03-2023,Trouville - Deauville,Paris Saint-Lazare,12:46:00,12:31:00,10:20:00,15,Panne d'un passage à niveau
+10-03-2023,Lyon Part Dieu,Annecy,10:12:00,10:07:00,08:08:00,5,Régulation du trafic
+10-03-2023,Poitiers,Limoges-Bénédictins,11:42:30,10:47:30,08:51:00,55,Réutilisation d'un train
+10-03-2023,Limoges-Bénédictins,Montluçon - ville,12:14:30,12:09:30,09:58:00,5,Conditions météorologiques
+10-03-2023,Bellegarde-sur-Valserine Gare,Lyon-Part-Dieu - Gare Routière,11:55:00,11:50:00,10:10:00,5,Embouteillage
+10-03-2023,Bourg-Saint-Maurice,Chambéry - Challes-les-Eaux,12:12:00,12:07:00,10:13:00,5,Difficultés lors de la préparation du train
